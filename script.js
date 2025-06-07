@@ -28,7 +28,12 @@ async function loadDinoData(username) {
             const row = document.createElement("tr");
 
             const cellIcon = document.createElement("td");
-            cellIcon.textContent = dinoInfo.icon || "❓";
+			const img = document.createElement("img");
+			img.src = `dino_icons/${dinoName}.png`;
+			img.alt = "Dino Icon";
+			img.style.width = "32px";
+			img.style.height = "32px";
+			cellIcon.appendChild(img);
 
             const cellName = document.createElement("td");
             cellName.textContent = dinoName;
