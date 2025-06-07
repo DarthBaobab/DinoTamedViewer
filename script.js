@@ -55,3 +55,14 @@ async function loadDinoData(username) {
     }
 }
 
+function getUserFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get("username");
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  const username = getUserFromURL();
+  if (username) {
+    loadDinoData(username);
+  }
+});
