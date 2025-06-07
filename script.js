@@ -1,11 +1,11 @@
-document.getElementById("loadBtn").addEventListener("click", () => {
-    const username = document.getElementById("username").value.trim();
-    if (!username) {
-        alert("Bitte einen Benutzernamen eingeben!");
-        return;
-    }
-    loadDinoData(username);
-});
+// document.getElementById("loadBtn").addEventListener("click", () => {
+    // const username = document.getElementById("username").value.trim();
+    // if (!username) {
+        // alert("Bitte einen Benutzernamen eingeben!");
+        // return;
+    // }
+    // loadDinoData(username);
+// });
 
 async function loadDinoData(username) {
     const status = document.getElementById("status");
