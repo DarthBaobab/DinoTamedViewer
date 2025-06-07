@@ -8,8 +8,10 @@ document.getElementById("loadBtn").addEventListener("click", () => {
 });
 
 async function loadDinoData(username) {
-    const output = document.getElementById("output");
-    output.textContent = "Lade Daten...";
+    const status = document.getElementById("status");
+    const tbody = document.querySelector("#dinoTable tbody");
+    tbody.innerHTML = ""; // Tabelle leeren
+    status.textContent = "Lade Daten...";
 
     try {
         const res = await fetch(`saves/${username}.json`);
@@ -18,22 +20,33 @@ async function loadDinoData(username) {
         const data = await res.json();
 
         if (Object.keys(data).length === 0) {
-            output.textContent = "Keine gezähmten Dinos gefunden.";
+            status.textContent = "Keine gezähmten Dinos gefunden.";
             return;
         }
 
-        // Schöne Ausgabe der Dinos
-        let text = "";
         for (const [dinoName, dinoInfo] of Object.entries(data)) {
-            text += `${dinoName}:\n`;
-            for (const [key, value] of Object.entries(dinoInfo)) {
-                text += `  ${key}: ${value}\n`;
-            }
-            text += "\n";
+            const row = document.createElement("tr");
+
+            const cellIcon = document.createElement("td");
+            cellIcon.textContent = dinoInfo.icon || "❓";
+
+            const cellName = document.createElement("td");
+            cellName.textContent = dinoName;
+
+            const cellDate = document.createElement("td");
+            cellDate.textContent = dinoInfo.tame_date || "-";
+
+            row.appendChild(cellIcon);
+            row.appendChild(cellName);
+            row.appendChild(cellDate);
+
+            tbody.appendChild(row);
         }
-        output.textContent = text.trim();
+
+        status.textContent = `Zeige gezähmte Dinos von ${username}`;
 
     } catch (err) {
-        output.textContent = "Fehler: " + err.message;
+        status.textContent = "Fehler: " + err.message;
     }
 }
+
