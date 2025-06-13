@@ -1,6 +1,8 @@
 {
   "Deinosuchus": {
     "tame_date": "08.06.2025 18:03:04",
+    "health": 884.0,
+    "damage": 713.0,
     "win": 0,
     "lose": 0
   }

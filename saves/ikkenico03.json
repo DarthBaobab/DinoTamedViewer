@@ -1,21 +1,29 @@
 {
   "Dilophosaur": {
     "tame_date": "07.06.2025 17:40:01",
+    "health": 261.0,
+    "damage": 93.0,
     "win": 0,
     "lose": 0
   },
   "Araneo": {
     "tame_date": "07.06.2025 17:40:01",
+    "health": 244.0,
+    "damage": 53.0,
     "win": 0,
     "lose": 0
   },
   "Terror Bird": {
     "tame_date": "07.06.2025 17:40:01",
+    "health": 347.0,
+    "damage": 212.0,
     "win": 0,
     "lose": 0
   },
   "Daeodon": {
     "tame_date": "07.06.2025 17:40:01",
+    "health": 2232.0,
+    "damage": 205.0,
     "win": 0,
     "lose": 0
   }

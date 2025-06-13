@@ -1,26 +1,36 @@
 {
   "Triceratops": {
     "tame_date": "07.06.2025 17:40:01",
+    "health": 531.0,
+    "damage": 167.0,
     "win": 0,
     "lose": 0
   },
   "Procoptodon": {
     "tame_date": "07.06.2025 17:40:01",
+    "health": 1116.0,
+    "damage": 224.0,
     "win": 0,
     "lose": 0
   },
   "Microraptor": {
     "tame_date": "08.06.2025 19:08:31",
+    "health": 255.0,
+    "damage": 135.0,
     "win": 0,
     "lose": 0
   },
   "Dodo": {
     "tame_date": "08.06.2025 20:37:11",
+    "health": 334.0,
+    "damage": 50.0,
     "win": 0,
     "lose": 0
   },
   "Stegosaurus": {
     "tame_date": "08.06.2025 22:19:29",
+    "health": 694.0,
+    "damage": 603.0,
     "win": 0,
     "lose": 0
   }

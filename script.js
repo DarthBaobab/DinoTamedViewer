@@ -40,18 +40,23 @@ async function loadDinoData(username) {
 
             const cellDate = document.createElement("td");
             cellDate.textContent = dinoInfo.tame_date || "-";
+            
+			const cellHP = document.createElement("td");
+            cellHP.textContent = dinoInfo.health || "-";
+            
+			const cellDMG = document.createElement("td");
+            cellDMG.textContent = dinoInfo.damage || "-";
 			
-			const cellWin = document.createElement("td");
-			cellWin.textContent = dinoInfo.win || "0";
+			const cellKD = document.createElement("td");
+			cellKD.textContent = `${dinoInfo.win || "0"} / ${dinoInfo.lose || "0"}`;
 
-			const cellLose = document.createElement("td");
-			cellLose.textContent = dinoInfo.lose || "0";
 
             row.appendChild(cellIcon);
             row.appendChild(cellName);
             row.appendChild(cellDate);
-            row.appendChild(cellWin);
-            row.appendChild(cellLose);
+            row.appendChild(cellHP);
+            row.appendChild(cellDMG);
+            row.appendChild(cellKD);
 
             tbody.appendChild(row);
         }

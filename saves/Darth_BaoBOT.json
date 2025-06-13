@@ -1,11 +1,15 @@
 {
   "Triceratops": {
     "tame_date": "07.06.2025 17:40:01",
+    "health": 1106.0,
+    "damage": 476.0,
     "win": 0,
     "lose": 0
   },
   "Procoptodon": {
     "tame_date": "07.06.2025 17:40:01",
+    "health": 950.0,
+    "damage": 272.0,
     "win": 0,
     "lose": 0
   }
