@@ -39,13 +39,13 @@ async function loadDinoData(username) {
             cellName.textContent = dinoName;
 
             const cellDate = document.createElement("td");
-            cellDate.textContent = dinoInfo.tame_date || "-";
+            cellDate.textContent = dinoInfo.tame_date;
             
 			const cellHP = document.createElement("td");
-            cellHP.textContent = dinoInfo.health || "-";
+            cellHP.textContent = dinoInfo.health;
             
 			const cellDMG = document.createElement("td");
-            cellDMG.textContent = dinoInfo.damage || "-";
+            cellDMG.textContent = dinoInfo.damage;
 			
 			const cellKD = document.createElement("td");
 			cellKD.textContent = `${dinoInfo.win} / ${dinoInfo.lose}`;
