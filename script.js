@@ -41,10 +41,10 @@ async function loadDinoData(username) {
             const cellDate = document.createElement("td");
             cellDate.textContent = dinoInfo.tame_date || "-";
 			
-			const. cellWin = document.createElement("td");
+			const cellWin = document.createElement("td");
 			cellWin.textContent = dinoInfo.win || "0";
 
-			const. cellLose = document.createElement("td");
+			const cellLose = document.createElement("td");
 			cellLose.textContent = dinoInfo.lose || "0";
 
             row.appendChild(cellIcon);
