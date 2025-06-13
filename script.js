@@ -48,7 +48,7 @@ async function loadDinoData(username) {
             cellDMG.textContent = dinoInfo.damage || "-";
 			
 			const cellKD = document.createElement("td");
-			cellKD.textContent = `${dinoInfo.win || "0"} / ${dinoInfo.lose || "0"}`;
+			cellKD.textContent = `${dinoInfo.win} / ${dinoInfo.lose}`;
 
 
             row.appendChild(cellIcon);
