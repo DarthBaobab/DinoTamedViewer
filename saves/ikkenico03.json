@@ -1,14 +1,22 @@
 {
   "Dilophosaur": {
-    "tame_date": "07-06-2025 17:40:01"
+    "tame_date": "07.06.2025 17:40:01",
+    "win": 0,
+    "lose": 0
   },
   "Araneo": {
-    "tame_date": "07-06-2025 17:40:01"
+    "tame_date": "07.06.2025 17:40:01",
+    "win": 0,
+    "lose": 0
   },
   "Terror Bird": {
-    "tame_date": "07-06-2025 17:40:01"
+    "tame_date": "07.06.2025 17:40:01",
+    "win": 0,
+    "lose": 0
   },
   "Daeodon": {
-    "tame_date": "07-06-2025 17:40:01"
+    "tame_date": "07.06.2025 17:40:01",
+    "win": 0,
+    "lose": 0
   }
 }
