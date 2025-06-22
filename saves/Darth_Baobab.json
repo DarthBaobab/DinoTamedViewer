@@ -39,12 +39,19 @@
     "health": 447.0,
     "damage": 95.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Parasaur": {
     "tame_date": "14.06.2025 00:09:35",
     "health": 252.0,
     "damage": 132.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Featherlight": {
+    "tame_date": "22.06.2025 11:58:30",
+    "health": 292.0,
+    "damage": 17.0,
     "win": 0,
     "lose": 0
   }
