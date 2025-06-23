@@ -61,5 +61,12 @@
     "damage": 413.0,
     "win": 0,
     "lose": 0
+  },
+  "Spino": {
+    "tame_date": "23.06.2025 18:40:57",
+    "health": 1688.0,
+    "damage": 229.0,
+    "win": 0,
+    "lose": 0
   }
 }
