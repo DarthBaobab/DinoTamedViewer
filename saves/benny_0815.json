@@ -5,5 +5,12 @@
     "damage": 123.0,
     "win": 0,
     "lose": 0
+  },
+  "Beelzebufo": {
+    "tame_date": "23.06.2025 22:14:40",
+    "health": 502.0,
+    "damage": 71.0,
+    "win": 0,
+    "lose": 0
   }
 }
