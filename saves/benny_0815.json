@@ -19,5 +19,12 @@
     "damage": 363.0,
     "win": 0,
     "lose": 0
+  },
+  "Pelagornis": {
+    "tame_date": "24.06.2025 17:29:22",
+    "health": 554.0,
+    "damage": 226.0,
+    "win": 0,
+    "lose": 0
   }
 }
