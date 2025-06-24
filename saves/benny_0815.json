@@ -12,5 +12,12 @@
     "damage": 71.0,
     "win": 0,
     "lose": 0
+  },
+  "Snow Owl": {
+    "tame_date": "24.06.2025 17:02:06",
+    "health": 697.0,
+    "damage": 363.0,
+    "win": 0,
+    "lose": 0
   }
 }
