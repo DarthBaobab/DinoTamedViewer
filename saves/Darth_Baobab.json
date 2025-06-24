@@ -96,5 +96,12 @@
     "damage": 164.0,
     "win": 0,
     "lose": 0
+  },
+  "Paraceratherium": {
+    "tame_date": "24.06.2025 18:27:33",
+    "health": 1529.0,
+    "damage": 255.0,
+    "win": 0,
+    "lose": 0
   }
 }
