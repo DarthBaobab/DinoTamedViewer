@@ -26,5 +26,12 @@
     "damage": 226.0,
     "win": 0,
     "lose": 0
+  },
+  "Meganeura": {
+    "tame_date": "24.06.2025 19:14:01",
+    "health": 556.0,
+    "damage": 74.0,
+    "win": 0,
+    "lose": 0
   }
 }
