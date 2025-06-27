@@ -25,7 +25,7 @@
     "health": 334.0,
     "damage": 50.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Stegosaurus": {
     "tame_date": "08.06.2025 22:19:29",
@@ -115,6 +115,13 @@
     "tame_date": "27.06.2025 20:59:20",
     "health": 1039.0,
     "damage": 315.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Achatina": {
+    "tame_date": "27.06.2025 21:37:52",
+    "health": 1044.0,
+    "damage": 17.0,
     "win": 0,
     "lose": 0
   }
