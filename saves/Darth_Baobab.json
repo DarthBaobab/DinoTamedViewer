@@ -31,7 +31,7 @@
     "tame_date": "08.06.2025 22:19:29",
     "health": 694.0,
     "damage": 603.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Raptor": {
@@ -122,6 +122,13 @@
     "tame_date": "27.06.2025 21:37:52",
     "health": 1044.0,
     "damage": 17.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Rock Elemental": {
+    "tame_date": "27.06.2025 22:54:24",
+    "health": 4241.0,
+    "damage": 319.0,
     "win": 0,
     "lose": 0
   }
