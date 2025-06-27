@@ -26,5 +26,12 @@
     "damage": 118.0,
     "win": 0,
     "lose": 0
+  },
+  "Deinotherium": {
+    "tame_date": "27.06.2025 23:38:53",
+    "health": 1633.0,
+    "damage": 345.0,
+    "win": 0,
+    "lose": 0
   }
 }
