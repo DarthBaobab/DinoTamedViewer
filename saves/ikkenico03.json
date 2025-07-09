@@ -47,5 +47,12 @@
     "damage": 116.0,
     "win": 0,
     "lose": 1
+  },
+  "Ceratosaurus": {
+    "tame_date": "09.07.2025 19:53:42",
+    "health": 1597.0,
+    "damage": 278.0,
+    "win": 0,
+    "lose": 0
   }
 }
