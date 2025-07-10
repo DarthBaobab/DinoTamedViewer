@@ -40,5 +40,12 @@
     "damage": 518.0,
     "win": 0,
     "lose": 0
+  },
+  "Dire Bear": {
+    "tame_date": "10.07.2025 19:28:44",
+    "health": 1067.0,
+    "damage": 410.0,
+    "win": 0,
+    "lose": 0
   }
 }
