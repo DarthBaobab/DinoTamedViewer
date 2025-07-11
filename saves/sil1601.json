@@ -47,5 +47,12 @@
     "damage": 410.0,
     "win": 0,
     "lose": 0
+  },
+  "Hyaenodon": {
+    "tame_date": "11.07.2025 22:43:26",
+    "health": 509.0,
+    "damage": 222.0,
+    "win": 0,
+    "lose": 0
   }
 }
