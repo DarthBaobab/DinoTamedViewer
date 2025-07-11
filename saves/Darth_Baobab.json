@@ -173,5 +173,12 @@
     "damage": 42.0,
     "win": 0,
     "lose": 0
+  },
+  "Castoroides": {
+    "tame_date": "11.07.2025 20:34:04",
+    "health": 461.0,
+    "damage": 146.0,
+    "win": 0,
+    "lose": 0
   }
 }
