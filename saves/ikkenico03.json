@@ -75,5 +75,12 @@
     "damage": 521.0,
     "win": 0,
     "lose": 0
+  },
+  "Eurypterid": {
+    "tame_date": "11.07.2025 21:37:15",
+    "health": 222.0,
+    "damage": 45.0,
+    "win": 0,
+    "lose": 0
   }
 }
