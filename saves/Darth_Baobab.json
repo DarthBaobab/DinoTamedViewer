@@ -187,5 +187,12 @@
     "damage": 20.0,
     "win": 0,
     "lose": 0
+  },
+  "Yi Ling": {
+    "tame_date": "11.07.2025 21:21:03",
+    "health": 956.0,
+    "damage": 266.0,
+    "win": 0,
+    "lose": 0
   }
 }
