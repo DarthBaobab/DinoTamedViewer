@@ -39,7 +39,7 @@
     "health": 447.0,
     "damage": 95.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Parasaur": {
     "tame_date": "14.06.2025 00:09:35",
@@ -164,7 +164,7 @@
     "tame_date": "10.07.2025 19:55:40",
     "health": 89030.0,
     "damage": 1285.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   }
 }
