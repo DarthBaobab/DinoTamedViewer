@@ -208,5 +208,12 @@
     "damage": 434.0,
     "win": 0,
     "lose": 0
+  },
+  "Kairuku": {
+    "tame_date": "13.07.2025 20:05:39",
+    "health": 909.0,
+    "damage": 101.0,
+    "win": 0,
+    "lose": 0
   }
 }
