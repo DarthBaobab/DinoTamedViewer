@@ -164,7 +164,7 @@
     "tame_date": "10.07.2025 19:55:40",
     "health": 89030.0,
     "damage": 1285.0,
-    "win": 1,
+    "win": 2,
     "lose": 0
   },
   "Jerboa": {
@@ -192,6 +192,13 @@
     "tame_date": "11.07.2025 21:21:03",
     "health": 956.0,
     "damage": 266.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Velonasaur": {
+    "tame_date": "13.07.2025 15:35:57",
+    "health": 980.0,
+    "damage": 301.0,
     "win": 0,
     "lose": 0
   }
