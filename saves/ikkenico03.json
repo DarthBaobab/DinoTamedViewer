@@ -96,5 +96,12 @@
     "damage": 15.0,
     "win": 0,
     "lose": 0
+  },
+  "Yutyrannus": {
+    "tame_date": "13.07.2025 20:23:48",
+    "health": 1541.0,
+    "damage": 409.0,
+    "win": 0,
+    "lose": 0
   }
 }
