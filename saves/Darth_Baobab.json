@@ -179,7 +179,7 @@
     "health": 461.0,
     "damage": 146.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Overseer": {
     "tame_date": "11.07.2025 21:03:24",
@@ -220,6 +220,13 @@
     "tame_date": "13.07.2025 20:23:48",
     "health": 1249.0,
     "damage": 596.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Shastasaurus": {
+    "tame_date": "15.07.2025 19:09:40",
+    "health": 5330.0,
+    "damage": 844.0,
     "win": 0,
     "lose": 0
   }
