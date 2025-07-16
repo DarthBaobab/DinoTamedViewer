@@ -234,7 +234,7 @@
     "tame_date": "15.07.2025 19:48:44",
     "health": 624.0,
     "damage": 642.0,
-    "win": 0,
+    "win": 1,
     "lose": 1
   },
   "Baryonyx": {
@@ -248,6 +248,13 @@
     "tame_date": "16.07.2025 18:11:00",
     "health": 221.0,
     "damage": 69.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Megalania": {
+    "tame_date": "16.07.2025 19:24:13",
+    "health": 487.0,
+    "damage": 131.0,
     "win": 0,
     "lose": 0
   }
