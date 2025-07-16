@@ -46,7 +46,7 @@
     "health": 548.0,
     "damage": 116.0,
     "win": 0,
-    "lose": 2
+    "lose": 3
   },
   "Ceratosaurus": {
     "tame_date": "09.07.2025 19:53:42",
@@ -73,7 +73,7 @@
     "tame_date": "11.07.2025 19:18:27",
     "health": 132525.0,
     "damage": 521.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Eurypterid": {
@@ -101,6 +101,13 @@
     "tame_date": "13.07.2025 20:23:48",
     "health": 1541.0,
     "damage": 409.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Mesopithecus": {
+    "tame_date": "16.07.2025 17:46:29",
+    "health": 185.0,
+    "damage": 148.0,
     "win": 0,
     "lose": 0
   }
