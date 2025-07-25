@@ -54,5 +54,12 @@
     "damage": 30.0,
     "win": 0,
     "lose": 0
+  },
+  "Dilophosaur": {
+    "tame_date": "25.07.2025 17:14:57",
+    "health": 259.0,
+    "damage": 119.0,
+    "win": 0,
+    "lose": 0
   }
 }
