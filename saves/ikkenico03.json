@@ -131,5 +131,12 @@
     "damage": 43.0,
     "win": 0,
     "lose": 0
+  },
+  "Dragon": {
+    "tame_date": "25.07.2025 16:50:10",
+    "health": 77827.0,
+    "damage": 870.0,
+    "win": 0,
+    "lose": 0
   }
 }
