@@ -38,7 +38,7 @@
     "tame_date": "10.07.2025 19:08:37",
     "health": 1325.0,
     "damage": 518.0,
-    "win": 0,
+    "win": 1,
     "lose": 1
   },
   "Dire Bear": {
@@ -94,6 +94,13 @@
     "tame_date": "01.08.2025 21:35:59",
     "health": 204.0,
     "damage": 16.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Lymantria": {
+    "tame_date": "01.08.2025 22:48:17",
+    "health": 666.0,
+    "damage": 208.0,
     "win": 0,
     "lose": 0
   }
