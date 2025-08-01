@@ -52,7 +52,7 @@
     "tame_date": "11.07.2025 22:43:26",
     "health": 509.0,
     "damage": 222.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Spino": {
@@ -87,6 +87,13 @@
     "tame_date": "01.08.2025 20:00:37",
     "health": 149.0,
     "damage": 152.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Ammonite": {
+    "tame_date": "01.08.2025 21:35:59",
+    "health": 204.0,
+    "damage": 16.0,
     "win": 0,
     "lose": 0
   }

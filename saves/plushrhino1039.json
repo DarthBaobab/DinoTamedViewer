@@ -19,5 +19,12 @@
     "damage": 143.0,
     "win": 0,
     "lose": 0
+  },
+  "Ammonite": {
+    "tame_date": "01.08.2025 21:35:59",
+    "health": 176.0,
+    "damage": 17.0,
+    "win": 0,
+    "lose": 0
   }
 }
