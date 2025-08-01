@@ -82,5 +82,12 @@
     "damage": 199.0,
     "win": 0,
     "lose": 0
+  },
+  "Vulture": {
+    "tame_date": "01.08.2025 20:00:37",
+    "health": 149.0,
+    "damage": 152.0,
+    "win": 0,
+    "lose": 0
   }
 }
