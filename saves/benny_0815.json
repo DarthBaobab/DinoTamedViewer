@@ -89,5 +89,12 @@
     "damage": 248.0,
     "win": 0,
     "lose": 0
+  },
+  "Woolly Rhino": {
+    "tame_date": "04.08.2025 18:28:49",
+    "health": 1228.0,
+    "damage": 545.0,
+    "win": 0,
+    "lose": 0
   }
 }
