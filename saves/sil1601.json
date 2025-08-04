@@ -67,7 +67,7 @@
     "health": 330.0,
     "damage": 39.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Managarmr": {
     "tame_date": "25.07.2025 18:05:39",
