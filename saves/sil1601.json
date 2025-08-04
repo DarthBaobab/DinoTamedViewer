@@ -103,5 +103,12 @@
     "damage": 208.0,
     "win": 0,
     "lose": 0
+  },
+  "Megaloceros": {
+    "tame_date": "04.08.2025 12:01:40",
+    "health": 888.0,
+    "damage": 431.0,
+    "win": 0,
+    "lose": 0
   }
 }
