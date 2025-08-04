@@ -271,5 +271,12 @@
     "damage": 333.0,
     "win": 0,
     "lose": 0
+  },
+  "Dimetrodon": {
+    "tame_date": "04.08.2025 13:35:19",
+    "health": 926.0,
+    "damage": 282.0,
+    "win": 0,
+    "lose": 0
   }
 }
