@@ -186,7 +186,7 @@
     "health": 13089.0,
     "damage": 20.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Yi Ling": {
     "tame_date": "11.07.2025 21:21:03",
@@ -283,6 +283,13 @@
     "tame_date": "04.08.2025 15:06:24",
     "health": 1262.0,
     "damage": 345.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Basilosaurus": {
+    "tame_date": "04.08.2025 15:44:59",
+    "health": 1266.0,
+    "damage": 650.0,
     "win": 0,
     "lose": 0
   }
