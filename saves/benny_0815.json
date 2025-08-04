@@ -45,7 +45,7 @@
     "tame_date": "13.07.2025 20:23:48",
     "health": 1024.0,
     "damage": 375.0,
-    "win": 0,
+    "win": 1,
     "lose": 1
   },
   "Electrophorus": {
