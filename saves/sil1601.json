@@ -110,5 +110,12 @@
     "damage": 431.0,
     "win": 0,
     "lose": 0
+  },
+  "Quetzal": {
+    "tame_date": "04.08.2025 15:06:24",
+    "health": 1337.0,
+    "damage": 217.0,
+    "win": 0,
+    "lose": 0
   }
 }
