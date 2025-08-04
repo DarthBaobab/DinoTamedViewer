@@ -137,7 +137,7 @@
     "health": 2254.0,
     "damage": 433.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Kentrosaurus": {
     "tame_date": "28.06.2025 00:02:50",
@@ -290,6 +290,13 @@
     "tame_date": "04.08.2025 15:44:59",
     "health": 1266.0,
     "damage": 650.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Unicorn": {
+    "tame_date": "04.08.2025 16:13:59",
+    "health": 515.0,
+    "damage": 120.0,
     "win": 0,
     "lose": 0
   }
