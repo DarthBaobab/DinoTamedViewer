@@ -75,5 +75,12 @@
     "damage": 124.0,
     "win": 0,
     "lose": 0
+  },
+  "Rhyniognatha": {
+    "tame_date": "04.08.2025 14:40:58",
+    "health": 1272.0,
+    "damage": 453.0,
+    "win": 0,
+    "lose": 0
   }
 }
