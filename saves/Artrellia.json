@@ -19,5 +19,12 @@
     "damage": 87.0,
     "win": 0,
     "lose": 0
+  },
+  "Brontosaurus": {
+    "tame_date": "05.08.2025 18:40:18",
+    "health": 1917.0,
+    "damage": 415.0,
+    "win": 0,
+    "lose": 0
   }
 }
