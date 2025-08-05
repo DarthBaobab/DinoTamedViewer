@@ -45,7 +45,7 @@
     "tame_date": "13.07.2025 20:23:48",
     "health": 1024.0,
     "damage": 375.0,
-    "win": 1,
+    "win": 2,
     "lose": 1
   },
   "Electrophorus": {
@@ -94,6 +94,13 @@
     "tame_date": "04.08.2025 18:28:49",
     "health": 1228.0,
     "damage": 545.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Triceratops": {
+    "tame_date": "05.08.2025 19:28:40",
+    "health": 867.0,
+    "damage": 359.0,
     "win": 0,
     "lose": 0
   }
