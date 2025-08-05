@@ -144,7 +144,7 @@
     "health": 1683.0,
     "damage": 104.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Ceratosaurus": {
     "tame_date": "09.07.2025 19:53:42",
@@ -179,7 +179,7 @@
     "health": 461.0,
     "damage": 146.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Overseer": {
     "tame_date": "11.07.2025 21:03:24",
@@ -235,7 +235,7 @@
     "health": 624.0,
     "damage": 642.0,
     "win": 1,
-    "lose": 1
+    "lose": 2
   },
   "Baryonyx": {
     "tame_date": "15.07.2025 20:26:57",
