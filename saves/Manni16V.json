@@ -33,5 +33,12 @@
     "damage": 141.0,
     "win": 0,
     "lose": 0
+  },
+  "Dreadmare": {
+    "tame_date": "12.08.2025 20:07:41",
+    "health": 1496.0,
+    "damage": 126.0,
+    "win": 0,
+    "lose": 0
   }
 }
