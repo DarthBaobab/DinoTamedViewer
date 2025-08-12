@@ -103,5 +103,12 @@
     "damage": 359.0,
     "win": 0,
     "lose": 0
+  },
+  "Morellatops": {
+    "tame_date": "12.08.2025 18:45:36",
+    "health": 840.0,
+    "damage": 446.0,
+    "win": 0,
+    "lose": 0
   }
 }
