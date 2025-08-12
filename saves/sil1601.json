@@ -152,5 +152,12 @@
     "damage": 48.0,
     "win": 0,
     "lose": 0
+  },
+  "Microraptor": {
+    "tame_date": "12.08.2025 22:29:33",
+    "health": 372.0,
+    "damage": 46.0,
+    "win": 0,
+    "lose": 0
   }
 }
