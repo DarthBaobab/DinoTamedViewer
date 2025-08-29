@@ -159,5 +159,12 @@
     "damage": 211.0,
     "win": 0,
     "lose": 0
+  },
+  "Iguanodon": {
+    "tame_date": "29.08.2025 18:54:20",
+    "health": 659.0,
+    "damage": 305.0,
+    "win": 0,
+    "lose": 0
   }
 }
