@@ -19,5 +19,12 @@
     "damage": 107.0,
     "win": 0,
     "lose": 0
+  },
+  "Ichthyosaurus": {
+    "tame_date": "29.08.2025 21:57:52",
+    "health": 374.0,
+    "damage": 209.0,
+    "win": 0,
+    "lose": 0
   }
 }
