@@ -166,5 +166,12 @@
     "damage": 431.0,
     "win": 0,
     "lose": 0
+  },
+  "Velonasaur": {
+    "tame_date": "29.08.2025 21:14:35",
+    "health": 878.0,
+    "damage": 244.0,
+    "win": 0,
+    "lose": 0
   }
 }
