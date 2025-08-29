@@ -26,5 +26,12 @@
     "damage": 209.0,
     "win": 0,
     "lose": 0
+  },
+  "Baryonyx": {
+    "tame_date": "29.08.2025 22:17:48",
+    "health": 974.0,
+    "damage": 204.0,
+    "win": 0,
+    "lose": 0
   }
 }
