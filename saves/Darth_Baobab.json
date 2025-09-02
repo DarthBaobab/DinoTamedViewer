@@ -348,5 +348,12 @@
     "damage": 917.0,
     "win": 0,
     "lose": 0
+  },
+  "Rock Drake": {
+    "tame_date": "02.09.2025 15:42:39",
+    "health": 2160.0,
+    "damage": 645.0,
+    "win": 0,
+    "lose": 0
   }
 }
