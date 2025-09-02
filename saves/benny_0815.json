@@ -39,7 +39,7 @@
     "health": 244.0,
     "damage": 73.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Yutyrannus": {
     "tame_date": "13.07.2025 20:23:48",
@@ -122,6 +122,13 @@
     "tame_date": "02.09.2025 15:42:39",
     "health": 1297.0,
     "damage": 550.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Spino": {
+    "tame_date": "02.09.2025 17:46:44",
+    "health": 1353.0,
+    "damage": 268.0,
     "win": 0,
     "lose": 0
   }
