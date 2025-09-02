@@ -54,5 +54,12 @@
     "damage": 289.0,
     "win": 0,
     "lose": 0
+  },
+  "Shinehorn": {
+    "tame_date": "02.09.2025 13:34:36",
+    "health": 293.0,
+    "damage": 17.0,
+    "win": 0,
+    "lose": 0
   }
 }
