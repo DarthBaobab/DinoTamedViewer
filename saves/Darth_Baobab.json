@@ -39,7 +39,7 @@
     "health": 447.0,
     "damage": 95.0,
     "win": 0,
-    "lose": 3
+    "lose": 4
   },
   "Parasaur": {
     "tame_date": "14.06.2025 00:09:35",
@@ -277,7 +277,7 @@
     "health": 926.0,
     "damage": 282.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Quetzal": {
     "tame_date": "04.08.2025 15:06:24",

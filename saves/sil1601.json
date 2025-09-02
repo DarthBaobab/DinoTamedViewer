@@ -73,7 +73,7 @@
     "tame_date": "25.07.2025 18:05:39",
     "health": 2064.0,
     "damage": 301.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Dreadmare": {
@@ -186,6 +186,6 @@
     "health": 992.0,
     "damage": 94.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   }
 }
