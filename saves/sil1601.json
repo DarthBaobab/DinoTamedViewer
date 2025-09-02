@@ -173,5 +173,12 @@
     "damage": 244.0,
     "win": 0,
     "lose": 0
+  },
+  "Megapithecus": {
+    "tame_date": "02.09.2025 12:49:30",
+    "health": 79653.0,
+    "damage": 525.0,
+    "win": 0,
+    "lose": 0
   }
 }
