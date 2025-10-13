@@ -47,5 +47,12 @@
     "damage": 586.0,
     "win": 0,
     "lose": 0
+  },
+  "Mesopithecus": {
+    "tame_date": "13.10.2025 19:46:53",
+    "health": 153.0,
+    "damage": 160.0,
+    "win": 0,
+    "lose": 0
   }
 }
