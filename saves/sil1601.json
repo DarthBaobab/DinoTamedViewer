@@ -194,5 +194,12 @@
     "damage": 15.0,
     "win": 0,
     "lose": 0
+  },
+  "Lystrosaurus": {
+    "tame_date": "13.10.2025 20:34:15",
+    "health": 494.0,
+    "damage": 41.0,
+    "win": 0,
+    "lose": 0
   }
 }
