@@ -40,5 +40,12 @@
     "damage": 286.0,
     "win": 0,
     "lose": 0
+  },
+  "Procoptodon": {
+    "tame_date": "31.10.2025 17:40:23",
+    "health": 601.0,
+    "damage": 214.0,
+    "win": 0,
+    "lose": 0
   }
 }
