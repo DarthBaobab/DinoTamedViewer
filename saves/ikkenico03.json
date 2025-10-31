@@ -46,14 +46,14 @@
     "health": 548.0,
     "damage": 116.0,
     "win": 0,
-    "lose": 4
+    "lose": 5
   },
   "Ceratosaurus": {
     "tame_date": "09.07.2025 19:53:42",
     "health": 1597.0,
     "damage": 278.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Hyaenodon": {
     "tame_date": "09.07.2025 22:06:53",
@@ -178,6 +178,13 @@
     "tame_date": "31.10.2025 16:56:01",
     "health": 1774.0,
     "damage": 437.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Brontosaurus": {
+    "tame_date": "31.10.2025 19:47:06",
+    "health": 2118.0,
+    "damage": 339.0,
     "win": 0,
     "lose": 0
   }

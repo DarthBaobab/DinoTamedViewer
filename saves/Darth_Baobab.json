@@ -290,7 +290,7 @@
     "tame_date": "04.08.2025 15:44:59",
     "health": 1266.0,
     "damage": 650.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Unicorn": {
@@ -319,7 +319,7 @@
     "health": 629.0,
     "damage": 242.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Shinehorn": {
     "tame_date": "12.08.2025 21:31:58",
@@ -332,7 +332,7 @@
     "tame_date": "29.08.2025 19:21:52",
     "health": 1041.0,
     "damage": 251.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Manticore": {
