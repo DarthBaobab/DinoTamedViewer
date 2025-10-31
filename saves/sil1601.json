@@ -59,7 +59,7 @@
     "tame_date": "15.07.2025 21:39:54",
     "health": 972.0,
     "damage": 203.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Electrophorus": {
@@ -199,6 +199,13 @@
     "tame_date": "13.10.2025 20:34:15",
     "health": 494.0,
     "damage": 41.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Allosaurus": {
+    "tame_date": "31.10.2025 16:56:01",
+    "health": 1679.0,
+    "damage": 227.0,
     "win": 0,
     "lose": 0
   }

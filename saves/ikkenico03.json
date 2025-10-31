@@ -32,7 +32,7 @@
     "health": 379.0,
     "damage": 107.0,
     "win": 0,
-    "lose": 2
+    "lose": 3
   },
   "Raptor": {
     "tame_date": "24.06.2025 17:08:39",
@@ -116,7 +116,7 @@
     "health": 1144.0,
     "damage": 159.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Castoroides": {
     "tame_date": "25.07.2025 16:06:14",
@@ -171,6 +171,13 @@
     "tame_date": "29.08.2025 21:31:45",
     "health": 482.0,
     "damage": 176.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Allosaurus": {
+    "tame_date": "31.10.2025 16:56:01",
+    "health": 1774.0,
+    "damage": 437.0,
     "win": 0,
     "lose": 0
   }

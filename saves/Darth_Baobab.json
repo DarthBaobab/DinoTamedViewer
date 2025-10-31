@@ -185,7 +185,7 @@
     "tame_date": "11.07.2025 21:03:24",
     "health": 13089.0,
     "damage": 20.0,
-    "win": 0,
+    "win": 1,
     "lose": 1
   },
   "Yi Ling": {
@@ -326,7 +326,7 @@
     "health": 147.0,
     "damage": 19.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Managarmr": {
     "tame_date": "29.08.2025 19:21:52",
