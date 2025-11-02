@@ -82,5 +82,12 @@
     "damage": 545.0,
     "win": 0,
     "lose": 0
+  },
+  "Managarmr": {
+    "tame_date": "02.11.2025 19:00:54",
+    "health": 1859.0,
+    "damage": 382.0,
+    "win": 0,
+    "lose": 0
   }
 }
