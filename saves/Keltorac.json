@@ -89,5 +89,12 @@
     "damage": 382.0,
     "win": 0,
     "lose": 0
+  },
+  "Raptor": {
+    "tame_date": "02.11.2025 20:30:01",
+    "health": 439.0,
+    "damage": 183.0,
+    "win": 0,
+    "lose": 0
   }
 }
