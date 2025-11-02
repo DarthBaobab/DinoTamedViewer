@@ -82,5 +82,12 @@
     "damage": 254.0,
     "win": 0,
     "lose": 0
+  },
+  "Achatina": {
+    "tame_date": "02.11.2025 17:24:37",
+    "health": 506.0,
+    "damage": 9.0,
+    "win": 0,
+    "lose": 0
   }
 }
