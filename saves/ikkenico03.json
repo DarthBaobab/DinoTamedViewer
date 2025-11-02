@@ -46,7 +46,7 @@
     "health": 548.0,
     "damage": 116.0,
     "win": 0,
-    "lose": 5
+    "lose": 6
   },
   "Ceratosaurus": {
     "tame_date": "09.07.2025 19:53:42",
@@ -130,7 +130,7 @@
     "health": 436.0,
     "damage": 43.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Dragon": {
     "tame_date": "25.07.2025 16:50:10",
