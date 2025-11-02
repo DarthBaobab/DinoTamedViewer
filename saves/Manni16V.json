@@ -4,7 +4,7 @@
     "health": 927.0,
     "damage": 260.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Piranha": {
     "tame_date": "13.07.2025 16:51:30",
@@ -73,6 +73,13 @@
     "tame_date": "31.10.2025 23:13:45",
     "health": 786.0,
     "damage": 311.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Archelon": {
+    "tame_date": "02.11.2025 16:06:22",
+    "health": 1243.0,
+    "damage": 254.0,
     "win": 0,
     "lose": 0
   }
