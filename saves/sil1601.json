@@ -95,14 +95,14 @@
     "health": 204.0,
     "damage": 16.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Lymantria": {
     "tame_date": "01.08.2025 22:48:17",
     "health": 666.0,
     "damage": 208.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Megaloceros": {
     "tame_date": "04.08.2025 12:01:40",

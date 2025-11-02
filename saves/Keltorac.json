@@ -39,7 +39,7 @@
     "health": 1439.0,
     "damage": 286.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Procoptodon": {
     "tame_date": "31.10.2025 17:40:23",
@@ -67,12 +67,19 @@
     "health": 459.0,
     "damage": 273.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Achatina": {
     "tame_date": "02.11.2025 17:24:37",
     "health": 879.0,
     "damage": 19.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Megalosaurus": {
+    "tame_date": "02.11.2025 18:41:50",
+    "health": 1068.0,
+    "damage": 545.0,
     "win": 0,
     "lose": 0
   }
