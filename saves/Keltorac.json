@@ -110,5 +110,12 @@
     "damage": 345.0,
     "win": 0,
     "lose": 0
+  },
+  "Oviraptor": {
+    "tame_date": "09.11.2025 21:16:48",
+    "health": 162.0,
+    "damage": 143.0,
+    "win": 0,
+    "lose": 0
   }
 }
