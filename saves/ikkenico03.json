@@ -208,5 +208,12 @@
     "damage": 142.0,
     "win": 0,
     "lose": 0
+  },
+  "Plesiosaur": {
+    "tame_date": "09.11.2025 18:14:02",
+    "health": 2330.0,
+    "damage": 730.0,
+    "win": 0,
+    "lose": 0
   }
 }
