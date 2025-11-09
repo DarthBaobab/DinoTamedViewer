@@ -124,5 +124,12 @@
     "damage": 125.0,
     "win": 0,
     "lose": 0
+  },
+  "Allosaurus": {
+    "tame_date": "09.11.2025 20:29:11",
+    "health": 690.0,
+    "damage": 497.0,
+    "win": 0,
+    "lose": 0
   }
 }
