@@ -110,5 +110,12 @@
     "damage": 850.0,
     "win": 0,
     "lose": 0
+  },
+  "Titanosaur": {
+    "tame_date": "09.11.2025 18:38:57",
+    "health": 48470.0,
+    "damage": 1359.0,
+    "win": 0,
+    "lose": 0
   }
 }
