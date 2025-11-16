@@ -124,5 +124,12 @@
     "damage": 163.0,
     "win": 0,
     "lose": 0
+  },
+  "Mosasaurus": {
+    "tame_date": "16.11.2025 16:47:22",
+    "health": 2100.0,
+    "damage": 282.0,
+    "win": 0,
+    "lose": 0
   }
 }
