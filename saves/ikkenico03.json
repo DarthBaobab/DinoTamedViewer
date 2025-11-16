@@ -46,7 +46,7 @@
     "health": 548.0,
     "damage": 116.0,
     "win": 0,
-    "lose": 6
+    "lose": 7
   },
   "Ceratosaurus": {
     "tame_date": "09.07.2025 19:53:42",
@@ -241,6 +241,13 @@
     "tame_date": "16.11.2025 18:57:55",
     "health": 759.0,
     "damage": 313.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Leedsichthys": {
+    "tame_date": "16.11.2025 21:59:59",
+    "health": 6197.0,
+    "damage": 203.0,
     "win": 0,
     "lose": 0
   }

@@ -137,6 +137,13 @@
     "health": 1466.0,
     "damage": 163.0,
     "win": 0,
+    "lose": 1
+  },
+  "Leedsichthys": {
+    "tame_date": "16.11.2025 21:59:59",
+    "health": 5180.0,
+    "damage": 176.0,
+    "win": 0,
     "lose": 0
   }
 }
