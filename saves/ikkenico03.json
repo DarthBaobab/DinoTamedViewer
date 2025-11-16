@@ -73,7 +73,7 @@
     "tame_date": "11.07.2025 19:18:27",
     "health": 132525.0,
     "damage": 521.0,
-    "win": 1,
+    "win": 2,
     "lose": 0
   },
   "Eurypterid": {
@@ -220,6 +220,13 @@
     "tame_date": "09.11.2025 18:38:57",
     "health": 69260.0,
     "damage": 1363.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Tapejara": {
+    "tame_date": "16.11.2025 16:25:16",
+    "health": 781.0,
+    "damage": 90.0,
     "win": 0,
     "lose": 0
   }

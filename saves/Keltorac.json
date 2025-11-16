@@ -88,7 +88,7 @@
     "health": 1859.0,
     "damage": 382.0,
     "win": 0,
-    "lose": 0
+    "lose": 1
   },
   "Raptor": {
     "tame_date": "02.11.2025 20:30:01",
@@ -115,6 +115,13 @@
     "tame_date": "09.11.2025 21:16:48",
     "health": 162.0,
     "damage": 143.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Tapejara": {
+    "tame_date": "16.11.2025 16:25:16",
+    "health": 352.0,
+    "damage": 163.0,
     "win": 0,
     "lose": 0
   }
