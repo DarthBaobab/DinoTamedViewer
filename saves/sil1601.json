@@ -25,7 +25,7 @@
     "health": 335.0,
     "damage": 118.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Deinotherium": {
     "tame_date": "27.06.2025 23:38:53",
@@ -38,7 +38,7 @@
     "tame_date": "10.07.2025 19:08:37",
     "health": 1325.0,
     "damage": 518.0,
-    "win": 1,
+    "win": 2,
     "lose": 1
   },
   "Dire Bear": {

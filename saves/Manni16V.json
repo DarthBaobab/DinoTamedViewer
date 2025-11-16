@@ -11,7 +11,7 @@
     "health": 292.0,
     "damage": 124.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Basilosaurus": {
     "tame_date": "04.08.2025 15:44:59",
@@ -129,6 +129,13 @@
     "tame_date": "09.11.2025 20:29:11",
     "health": 690.0,
     "damage": 497.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Doedicurus": {
+    "tame_date": "16.11.2025 17:29:12",
+    "health": 1466.0,
+    "damage": 163.0,
     "win": 0,
     "lose": 0
   }

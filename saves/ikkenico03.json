@@ -66,7 +66,7 @@
     "tame_date": "11.07.2025 18:09:23",
     "health": 1768.0,
     "damage": 489.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Broodmother Lysrix": {
@@ -130,7 +130,7 @@
     "health": 436.0,
     "damage": 43.0,
     "win": 0,
-    "lose": 2
+    "lose": 3
   },
   "Dragon": {
     "tame_date": "25.07.2025 16:50:10",
@@ -227,6 +227,13 @@
     "tame_date": "16.11.2025 16:25:16",
     "health": 781.0,
     "damage": 90.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Doedicurus": {
+    "tame_date": "16.11.2025 17:29:12",
+    "health": 2229.0,
+    "damage": 202.0,
     "win": 0,
     "lose": 0
   }
