@@ -243,5 +243,12 @@
     "damage": 287.0,
     "win": 0,
     "lose": 0
+  },
+  "Anglerfish": {
+    "tame_date": "16.11.2025 21:37:35",
+    "health": 880.0,
+    "damage": 447.0,
+    "win": 0,
+    "lose": 0
   }
 }
