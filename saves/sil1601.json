@@ -123,7 +123,7 @@
     "health": 211.0,
     "damage": 133.0,
     "win": 0,
-    "lose": 3
+    "lose": 4
   },
   "Oviraptor": {
     "tame_date": "05.08.2025 19:49:57",
@@ -234,7 +234,7 @@
     "tame_date": "09.11.2025 19:23:41",
     "health": 42790.0,
     "damage": 1472.0,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "Daeodon": {

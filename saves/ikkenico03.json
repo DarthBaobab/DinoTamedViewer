@@ -39,7 +39,7 @@
     "health": 475.0,
     "damage": 144.0,
     "win": 0,
-    "lose": 3
+    "lose": 4
   },
   "Pelagornis": {
     "tame_date": "24.06.2025 17:29:22",
@@ -248,6 +248,13 @@
     "tame_date": "16.11.2025 21:59:59",
     "health": 6197.0,
     "damage": 203.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Compy": {
+    "tame_date": "23.11.2025 18:11:40",
+    "health": 604.0,
+    "damage": 76.0,
     "win": 0,
     "lose": 0
   }
