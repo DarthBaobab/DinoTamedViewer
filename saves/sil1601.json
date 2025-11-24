@@ -264,5 +264,12 @@
     "damage": 134.0,
     "win": 0,
     "lose": 0
+  },
+  "Pulmonoscorpius": {
+    "tame_date": "24.11.2025 19:29:16",
+    "health": 475.0,
+    "damage": 106.0,
+    "win": 0,
+    "lose": 0
   }
 }
