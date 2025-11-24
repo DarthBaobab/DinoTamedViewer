@@ -46,7 +46,7 @@
     "health": 548.0,
     "damage": 116.0,
     "win": 0,
-    "lose": 7
+    "lose": 8
   },
   "Ceratosaurus": {
     "tame_date": "09.07.2025 19:53:42",
@@ -262,6 +262,13 @@
     "tame_date": "23.11.2025 19:06:33",
     "health": 922.0,
     "damage": 108.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Basilisk": {
+    "tame_date": "24.11.2025 20:06:37",
+    "health": 3589.0,
+    "damage": 524.0,
     "win": 0,
     "lose": 0
   }
