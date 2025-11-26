@@ -60,7 +60,7 @@
     "health": 237.0,
     "damage": 203.0,
     "win": 0,
-    "lose": 1
+    "lose": 2
   },
   "Deinotherium": {
     "tame_date": "11.07.2025 18:09:23",
@@ -283,6 +283,13 @@
     "tame_date": "26.11.2025 18:45:13",
     "health": 207.0,
     "damage": 19.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Shinehorn": {
+    "tame_date": "26.11.2025 20:25:51",
+    "health": 210.0,
+    "damage": 13.0,
     "win": 0,
     "lose": 0
   }
