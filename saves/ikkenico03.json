@@ -136,7 +136,7 @@
     "tame_date": "25.07.2025 16:50:10",
     "health": 77827.0,
     "damage": 870.0,
-    "win": 3,
+    "win": 4,
     "lose": 0
   },
   "Vulture": {
@@ -276,6 +276,13 @@
     "tame_date": "24.11.2025 21:27:55",
     "health": 412.0,
     "damage": 106.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Cosmo": {
+    "tame_date": "26.11.2025 18:45:13",
+    "health": 207.0,
+    "damage": 19.0,
     "win": 0,
     "lose": 0
   }
