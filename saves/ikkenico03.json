@@ -53,7 +53,7 @@
     "health": 1597.0,
     "damage": 278.0,
     "win": 0,
-    "lose": 2
+    "lose": 3
   },
   "Hyaenodon": {
     "tame_date": "09.07.2025 22:06:53",
@@ -304,6 +304,13 @@
     "tame_date": "30.11.2025 15:55:23",
     "health": 1900.0,
     "damage": 537.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Carnotaurus": {
+    "tame_date": "30.11.2025 16:17:04",
+    "health": 1160.0,
+    "damage": 371.0,
     "win": 0,
     "lose": 0
   }
