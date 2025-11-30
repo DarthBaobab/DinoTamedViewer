@@ -159,5 +159,12 @@
     "damage": 250.0,
     "win": 0,
     "lose": 0
+  },
+  "Thorny Dragon": {
+    "tame_date": "30.11.2025 20:55:51",
+    "health": 443.0,
+    "damage": 527.0,
+    "win": 0,
+    "lose": 0
   }
 }
