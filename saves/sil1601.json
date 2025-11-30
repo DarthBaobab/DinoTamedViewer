@@ -278,5 +278,12 @@
     "damage": 343.0,
     "win": 0,
     "lose": 0
+  },
+  "Carnotaurus": {
+    "tame_date": "30.11.2025 18:51:49",
+    "health": 790.0,
+    "damage": 375.0,
+    "win": 0,
+    "lose": 0
   }
 }
