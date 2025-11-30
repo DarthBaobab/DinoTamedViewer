@@ -313,5 +313,12 @@
     "damage": 371.0,
     "win": 0,
     "lose": 0
+  },
+  "Megalania": {
+    "tame_date": "30.11.2025 17:50:00",
+    "health": 606.0,
+    "damage": 72.0,
+    "win": 0,
+    "lose": 0
   }
 }
