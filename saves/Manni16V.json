@@ -152,5 +152,12 @@
     "damage": 150.0,
     "win": 0,
     "lose": 1
+  },
+  "Stegosaurus": {
+    "tame_date": "30.11.2025 15:55:23",
+    "health": 1841.0,
+    "damage": 250.0,
+    "win": 0,
+    "lose": 0
   }
 }
