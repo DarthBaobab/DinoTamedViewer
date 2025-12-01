@@ -38,7 +38,7 @@
     "tame_date": "10.07.2025 19:08:37",
     "health": 1325.0,
     "damage": 518.0,
-    "win": 3,
+    "win": 4,
     "lose": 1
   },
   "Dire Bear": {
@@ -283,6 +283,13 @@
     "tame_date": "30.11.2025 18:51:49",
     "health": 790.0,
     "damage": 375.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Pyromane": {
+    "tame_date": "01.12.2025 18:54:48",
+    "health": 1749.0,
+    "damage": 229.0,
     "win": 0,
     "lose": 0
   }
