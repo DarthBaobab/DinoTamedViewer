@@ -292,5 +292,12 @@
     "damage": 229.0,
     "win": 0,
     "lose": 0
+  },
+  "Diplocaulus": {
+    "tame_date": "01.12.2025 19:37:05",
+    "health": 428.0,
+    "damage": 105.0,
+    "win": 0,
+    "lose": 0
   }
 }
