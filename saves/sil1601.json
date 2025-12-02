@@ -306,5 +306,12 @@
     "damage": 287.0,
     "win": 0,
     "lose": 0
+  },
+  "Jerboa": {
+    "tame_date": "02.12.2025 19:39:35",
+    "health": 539.0,
+    "damage": 45.0,
+    "win": 0,
+    "lose": 0
   }
 }
