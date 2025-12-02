@@ -24,7 +24,7 @@ async function loadDinoData(username) {
             return;
         }
 
-        for (const [dinoName, dinoInfo] of Object.entries(data)) {
+        for (const [dinoID, dinoInfo] of Object.entries(data)) {
             const row = document.createElement("tr");
 
             const cellIcon = document.createElement("td");
@@ -35,12 +35,21 @@ async function loadDinoData(username) {
 			img.style.height = "32px";
 			cellIcon.appendChild(img);
 
+            const cellID = document.createElement("td");
+            cellID.textContent = dinoID;
+
             const cellName = document.createElement("td");
-            cellName.textContent = dinoName;
+            cellName.textContent = dinoInfo.name;
 
             const cellDate = document.createElement("td");
             cellDate.textContent = dinoInfo.tame_date;
             
+            const cellLevel = document.createElement("td");
+            cellLevel.textContent = dinoInfo.level;
+
+            const cellEff = document.createElement("td");
+            cellEff.textContent = dinoInfo.effectiveness;
+
 			const cellHP = document.createElement("td");
             cellHP.textContent = dinoInfo.health;
             
@@ -51,9 +60,12 @@ async function loadDinoData(username) {
 			cellKD.textContent = `${dinoInfo.win} / ${dinoInfo.lose}`;
 
 
-            row.appendChild(cellIcon);
+            row.appendChild(cellID);
+			row.appendChild(cellIcon);
             row.appendChild(cellName);
-            row.appendChild(cellDate);
+            row.appendChild(cellLevel);
+			row.appendChild(cellEff);
+			row.appendChild(cellDate);
             row.appendChild(cellHP);
             row.appendChild(cellDMG);
             row.appendChild(cellKD);
@@ -74,8 +86,20 @@ function getUserFromURL() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  const username = getUserFromURL();
-  if (username) {
-    loadDinoData(username);
-  }
+    const username = getUserFromURL();
+    if (username) {
+        loadDinoData(username).then(() => {
+            // Sortierung nach dem Füllen der Tabelle aktivieren
+            new Tablesort(document.getElementById("dinoTable"));
+
+            // Filter nach dem Füllen der Tabelle aktivieren
+            const tf = new TableFilter('dinoTable', {
+                base_path: 'https://unpkg.com/tablefilter@1.0.0/dist/tablefilter/',
+                auto_filter: true,
+                rows_counter: true,
+                btn_reset: true
+            });
+            tf.init();
+        });
+    }
 });

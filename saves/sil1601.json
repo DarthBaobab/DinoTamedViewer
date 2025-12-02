@@ -299,5 +299,12 @@
     "damage": 105.0,
     "win": 0,
     "lose": 0
+  },
+  "Dimorphodon": {
+    "tame_date": "02.12.2025 19:04:48",
+    "health": 367.0,
+    "damage": 287.0,
+    "win": 0,
+    "lose": 0
   }
 }
