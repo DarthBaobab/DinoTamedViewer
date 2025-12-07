@@ -313,5 +313,12 @@
     "damage": 45.0,
     "win": 0,
     "lose": 0
+  },
+  "Xiphactinus": {
+    "tame_date": "07.12.2025 18:58:28",
+    "health": 1024.0,
+    "damage": 337.0,
+    "win": 0,
+    "lose": 0
   }
 }
