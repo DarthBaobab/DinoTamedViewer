@@ -1,0 +1,394 @@
+{
+  "Triceratops": {
+    "tame_date": "07.06.2025 17:40:01",
+    "health": 531.0,
+    "damage": 167.0,
+    "win": 0,
+    "lose": 3
+  },
+  "Procoptodon": {
+    "tame_date": "07.06.2025 17:40:01",
+    "health": 1116.0,
+    "damage": 224.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Microraptor": {
+    "tame_date": "08.06.2025 19:08:31",
+    "health": 255.0,
+    "damage": 135.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Dodo": {
+    "tame_date": "08.06.2025 20:37:11",
+    "health": 334.0,
+    "damage": 50.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Stegosaurus": {
+    "tame_date": "08.06.2025 22:19:29",
+    "health": 694.0,
+    "damage": 603.0,
+    "win": 1,
+    "lose": 2
+  },
+  "Raptor": {
+    "tame_date": "13.06.2025 22:07:07",
+    "health": 447.0,
+    "damage": 95.0,
+    "win": 0,
+    "lose": 4
+  },
+  "Parasaur": {
+    "tame_date": "14.06.2025 00:09:35",
+    "health": 252.0,
+    "damage": 132.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Featherlight": {
+    "tame_date": "22.06.2025 11:58:30",
+    "health": 292.0,
+    "damage": 17.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Cnidaria": {
+    "tame_date": "22.06.2025 12:11:56",
+    "health": 215.0,
+    "damage": 413.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Spino": {
+    "tame_date": "23.06.2025 18:40:57",
+    "health": 1688.0,
+    "damage": 229.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Daeodon": {
+    "tame_date": "23.06.2025 19:02:41",
+    "health": 1000.0,
+    "damage": 248.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Megapithecus": {
+    "tame_date": "23.06.2025 20:16:47",
+    "health": 78451.0,
+    "damage": 528.0,
+    "win": 6,
+    "lose": 0
+  },
+  "Tapejara": {
+    "tame_date": "23.06.2025 20:57:03",
+    "health": 970.0,
+    "damage": 163.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Beelzebufo": {
+    "tame_date": "23.06.2025 22:14:40",
+    "health": 427.0,
+    "damage": 164.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Paraceratherium": {
+    "tame_date": "24.06.2025 18:27:33",
+    "health": 1529.0,
+    "damage": 255.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Meganeura": {
+    "tame_date": "24.06.2025 19:14:01",
+    "health": 641.0,
+    "damage": 68.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Argentavis": {
+    "tame_date": "27.06.2025 20:59:20",
+    "health": 1039.0,
+    "damage": 315.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Achatina": {
+    "tame_date": "27.06.2025 21:37:52",
+    "health": 1044.0,
+    "damage": 17.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Rock Elemental": {
+    "tame_date": "27.06.2025 22:54:24",
+    "health": 4241.0,
+    "damage": 319.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Deinotherium": {
+    "tame_date": "27.06.2025 23:38:53",
+    "health": 2254.0,
+    "damage": 433.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Kentrosaurus": {
+    "tame_date": "28.06.2025 00:02:50",
+    "health": 1683.0,
+    "damage": 104.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Ceratosaurus": {
+    "tame_date": "09.07.2025 19:53:42",
+    "health": 591.0,
+    "damage": 258.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Trilobite": {
+    "tame_date": "10.07.2025 17:39:50",
+    "health": 238.0,
+    "damage": 18.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Titanosaur": {
+    "tame_date": "10.07.2025 19:55:40",
+    "health": 89030.0,
+    "damage": 1285.0,
+    "win": 2,
+    "lose": 0
+  },
+  "Jerboa": {
+    "tame_date": "11.07.2025 19:46:01",
+    "health": 386.0,
+    "damage": 42.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Castoroides": {
+    "tame_date": "11.07.2025 20:34:04",
+    "health": 461.0,
+    "damage": 146.0,
+    "win": 1,
+    "lose": 2
+  },
+  "Overseer": {
+    "tame_date": "11.07.2025 21:03:24",
+    "health": 13089.0,
+    "damage": 20.0,
+    "win": 1,
+    "lose": 1
+  },
+  "Yi Ling": {
+    "tame_date": "11.07.2025 21:21:03",
+    "health": 956.0,
+    "damage": 266.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Velonasaur": {
+    "tame_date": "13.07.2025 15:35:57",
+    "health": 980.0,
+    "damage": 301.0,
+    "win": 2,
+    "lose": 0
+  },
+  "Mantis": {
+    "tame_date": "13.07.2025 17:10:51",
+    "health": 417.0,
+    "damage": 434.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Kairuku": {
+    "tame_date": "13.07.2025 20:05:39",
+    "health": 909.0,
+    "damage": 101.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Yutyrannus": {
+    "tame_date": "13.07.2025 20:23:48",
+    "health": 1249.0,
+    "damage": 596.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Shastasaurus": {
+    "tame_date": "15.07.2025 19:09:40",
+    "health": 5330.0,
+    "damage": 844.0,
+    "win": 2,
+    "lose": 0
+  },
+  "Dire Bear": {
+    "tame_date": "15.07.2025 19:48:44",
+    "health": 624.0,
+    "damage": 642.0,
+    "win": 2,
+    "lose": 3
+  },
+  "Baryonyx": {
+    "tame_date": "15.07.2025 20:26:57",
+    "health": 812.0,
+    "damage": 230.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Dilophosaur": {
+    "tame_date": "16.07.2025 18:11:00",
+    "health": 221.0,
+    "damage": 69.0,
+    "win": 0,
+    "lose": 3
+  },
+  "Megalania": {
+    "tame_date": "16.07.2025 19:24:13",
+    "health": 487.0,
+    "damage": 131.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Electrophorus": {
+    "tame_date": "25.07.2025 16:29:30",
+    "health": 485.0,
+    "damage": 41.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Vulture": {
+    "tame_date": "01.08.2025 20:00:37",
+    "health": 317.0,
+    "damage": 333.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Dimetrodon": {
+    "tame_date": "04.08.2025 13:35:19",
+    "health": 926.0,
+    "damage": 282.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Quetzal": {
+    "tame_date": "04.08.2025 15:06:24",
+    "health": 1262.0,
+    "damage": 345.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Basilosaurus": {
+    "tame_date": "04.08.2025 15:44:59",
+    "health": 1266.0,
+    "damage": 650.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Unicorn": {
+    "tame_date": "04.08.2025 16:13:59",
+    "health": 515.0,
+    "damage": 120.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Cat": {
+    "tame_date": "04.08.2025 18:46:46",
+    "health": 238.0,
+    "damage": 142.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Brontosaurus": {
+    "tame_date": "05.08.2025 18:40:18",
+    "health": 2599.0,
+    "damage": 870.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Dreadmare": {
+    "tame_date": "12.08.2025 20:07:41",
+    "health": 629.0,
+    "damage": 242.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Shinehorn": {
+    "tame_date": "12.08.2025 21:31:58",
+    "health": 147.0,
+    "damage": 19.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Managarmr": {
+    "tame_date": "29.08.2025 19:21:52",
+    "health": 1041.0,
+    "damage": 251.0,
+    "win": 1,
+    "lose": 1
+  },
+  "Manticore": {
+    "tame_date": "29.08.2025 20:17:57",
+    "health": 28097.0,
+    "damage": 1245.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Plesiosaur": {
+    "tame_date": "30.08.2025 00:23:37",
+    "health": 2912.0,
+    "damage": 917.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Rock Drake": {
+    "tame_date": "02.09.2025 15:42:39",
+    "health": 2160.0,
+    "damage": 645.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Equus": {
+    "tame_date": "31.10.2025 20:10:32",
+    "health": 401.0,
+    "damage": 98.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Oviraptor": {
+    "tame_date": "09.11.2025 21:16:48",
+    "health": 378.0,
+    "damage": 170.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Xiphactinus": {
+    "tame_date": "16.11.2025 18:57:55",
+    "health": 1101.0,
+    "damage": 304.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Otter": {
+    "tame_date": "26.11.2025 22:16:12",
+    "health": 415.0,
+    "damage": 60.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Pyromane": {
+    "tame_date": "01.12.2025 18:54:48",
+    "health": 1173.0,
+    "damage": 353.0,
+    "win": 0,
+    "lose": 0
+  }
+}

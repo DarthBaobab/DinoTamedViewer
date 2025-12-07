@@ -1,0 +1,23 @@
+{
+  "Dimorphodon": {
+    "tame_date": "29.08.2025 19:42:45",
+    "health": 229.0,
+    "damage": 158.0,
+    "win": 0,
+    "lose": 3
+  },
+  "Giant Bee": {
+    "tame_date": "02.09.2025 13:16:59",
+    "health": 521.0,
+    "damage": 145.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Shinehorn": {
+    "tame_date": "26.11.2025 20:25:51",
+    "health": 228.0,
+    "damage": 9.0,
+    "win": 0,
+    "lose": 0
+  }
+}

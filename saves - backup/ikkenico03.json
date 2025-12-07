@@ -1,0 +1,345 @@
+{
+  "Dilophosaur": {
+    "tame_date": "07.06.2025 17:40:01",
+    "health": 261.0,
+    "damage": 93.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Araneo": {
+    "tame_date": "07.06.2025 17:40:01",
+    "health": 244.0,
+    "damage": 53.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Terror Bird": {
+    "tame_date": "07.06.2025 17:40:01",
+    "health": 347.0,
+    "damage": 212.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Daeodon": {
+    "tame_date": "07.06.2025 17:40:01",
+    "health": 2232.0,
+    "damage": 205.0,
+    "win": 3,
+    "lose": 1
+  },
+  "Beelzebufo": {
+    "tame_date": "23.06.2025 22:14:40",
+    "health": 379.0,
+    "damage": 107.0,
+    "win": 0,
+    "lose": 4
+  },
+  "Raptor": {
+    "tame_date": "24.06.2025 17:08:39",
+    "health": 475.0,
+    "damage": 144.0,
+    "win": 0,
+    "lose": 4
+  },
+  "Pelagornis": {
+    "tame_date": "24.06.2025 17:29:22",
+    "health": 548.0,
+    "damage": 116.0,
+    "win": 0,
+    "lose": 8
+  },
+  "Ceratosaurus": {
+    "tame_date": "09.07.2025 19:53:42",
+    "health": 1597.0,
+    "damage": 278.0,
+    "win": 0,
+    "lose": 3
+  },
+  "Hyaenodon": {
+    "tame_date": "09.07.2025 22:06:53",
+    "health": 237.0,
+    "damage": 203.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Deinotherium": {
+    "tame_date": "11.07.2025 18:09:23",
+    "health": 1768.0,
+    "damage": 489.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Broodmother Lysrix": {
+    "tame_date": "11.07.2025 19:18:27",
+    "health": 132525.0,
+    "damage": 521.0,
+    "win": 2,
+    "lose": 0
+  },
+  "Eurypterid": {
+    "tame_date": "11.07.2025 21:37:15",
+    "health": 222.0,
+    "damage": 45.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Dodo": {
+    "tame_date": "13.07.2025 13:29:15",
+    "health": 576.0,
+    "damage": 67.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Ammonite": {
+    "tame_date": "13.07.2025 17:56:22",
+    "health": 482.0,
+    "damage": 15.0,
+    "win": 0,
+    "lose": 3
+  },
+  "Yutyrannus": {
+    "tame_date": "13.07.2025 20:23:48",
+    "health": 1541.0,
+    "damage": 409.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Mesopithecus": {
+    "tame_date": "16.07.2025 17:46:29",
+    "health": 185.0,
+    "damage": 148.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Procoptodon": {
+    "tame_date": "16.07.2025 18:57:42",
+    "health": 1144.0,
+    "damage": 159.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Castoroides": {
+    "tame_date": "25.07.2025 16:06:14",
+    "health": 700.0,
+    "damage": 250.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Electrophorus": {
+    "tame_date": "25.07.2025 16:29:30",
+    "health": 436.0,
+    "damage": 43.0,
+    "win": 0,
+    "lose": 4
+  },
+  "Dragon": {
+    "tame_date": "25.07.2025 16:50:10",
+    "health": 77827.0,
+    "damage": 870.0,
+    "win": 4,
+    "lose": 0
+  },
+  "Vulture": {
+    "tame_date": "04.08.2025 12:27:55",
+    "health": 206.0,
+    "damage": 134.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Phiomia": {
+    "tame_date": "04.08.2025 12:44:19",
+    "health": 389.0,
+    "damage": 150.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Karkinos": {
+    "tame_date": "05.08.2025 21:30:39",
+    "health": 1415.0,
+    "damage": 211.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Iguanodon": {
+    "tame_date": "29.08.2025 18:54:20",
+    "health": 659.0,
+    "damage": 305.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Parasaur": {
+    "tame_date": "29.08.2025 21:31:45",
+    "health": 482.0,
+    "damage": 176.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Allosaurus": {
+    "tame_date": "31.10.2025 16:56:01",
+    "health": 1774.0,
+    "damage": 437.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Brontosaurus": {
+    "tame_date": "31.10.2025 19:47:06",
+    "health": 2118.0,
+    "damage": 339.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Managarmr": {
+    "tame_date": "02.11.2025 19:00:54",
+    "health": 1562.0,
+    "damage": 206.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Lystrosaurus": {
+    "tame_date": "02.11.2025 19:26:46",
+    "health": 822.0,
+    "damage": 97.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Meganeura": {
+    "tame_date": "09.11.2025 17:44:52",
+    "health": 251.0,
+    "damage": 142.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Plesiosaur": {
+    "tame_date": "09.11.2025 18:14:02",
+    "health": 2330.0,
+    "damage": 730.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Titanosaur": {
+    "tame_date": "09.11.2025 18:38:57",
+    "health": 69260.0,
+    "damage": 1363.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Tapejara": {
+    "tame_date": "16.11.2025 16:25:16",
+    "health": 781.0,
+    "damage": 90.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Doedicurus": {
+    "tame_date": "16.11.2025 17:29:12",
+    "health": 2229.0,
+    "damage": 202.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Xiphactinus": {
+    "tame_date": "16.11.2025 18:57:55",
+    "health": 759.0,
+    "damage": 313.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Leedsichthys": {
+    "tame_date": "16.11.2025 21:59:59",
+    "health": 6197.0,
+    "damage": 203.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Compy": {
+    "tame_date": "23.11.2025 18:11:40",
+    "health": 604.0,
+    "damage": 76.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Carbonemys": {
+    "tame_date": "23.11.2025 19:06:33",
+    "health": 922.0,
+    "damage": 108.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Basilisk": {
+    "tame_date": "24.11.2025 20:06:37",
+    "health": 3589.0,
+    "damage": 524.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Pteranodon": {
+    "tame_date": "24.11.2025 21:27:55",
+    "health": 412.0,
+    "damage": 106.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Cosmo": {
+    "tame_date": "26.11.2025 18:45:13",
+    "health": 207.0,
+    "damage": 19.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Shinehorn": {
+    "tame_date": "26.11.2025 20:25:51",
+    "health": 210.0,
+    "damage": 13.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Megapithecus": {
+    "tame_date": "26.11.2025 21:28:20",
+    "health": 40029.0,
+    "damage": 487.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Stegosaurus": {
+    "tame_date": "30.11.2025 15:55:23",
+    "health": 1900.0,
+    "damage": 537.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Carnotaurus": {
+    "tame_date": "30.11.2025 16:17:04",
+    "health": 1160.0,
+    "damage": 371.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Megalania": {
+    "tame_date": "30.11.2025 17:50:00",
+    "health": 606.0,
+    "damage": 72.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Baryonyx": {
+    "tame_date": "30.11.2025 20:28:29",
+    "health": 1168.0,
+    "damage": 280.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Piranha": {
+    "tame_date": "01.12.2025 19:21:52",
+    "health": 442.0,
+    "damage": 283.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Rock Drake": {
+    "tame_date": "01.12.2025 19:54:36",
+    "health": 2473.0,
+    "damage": 466.0,
+    "win": 0,
+    "lose": 0
+  }
+}

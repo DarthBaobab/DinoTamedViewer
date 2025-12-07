@@ -1,0 +1,79 @@
+{
+  "Microraptor": {
+    "tame_date": "13.07.2025 15:59:49",
+    "health": 389.0,
+    "damage": 97.0,
+    "win": 0,
+    "lose": 4
+  },
+  "Beelzebufo": {
+    "tame_date": "16.07.2025 19:43:49",
+    "health": 598.0,
+    "damage": 61.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Dilophosaur": {
+    "tame_date": "25.07.2025 17:14:58",
+    "health": 277.0,
+    "damage": 143.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Ammonite": {
+    "tame_date": "01.08.2025 21:35:59",
+    "health": 176.0,
+    "damage": 17.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Phiomia": {
+    "tame_date": "04.08.2025 12:44:19",
+    "health": 645.0,
+    "damage": 110.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Unicorn": {
+    "tame_date": "04.08.2025 16:13:59",
+    "health": 716.0,
+    "damage": 136.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Achatina": {
+    "tame_date": "12.08.2025 22:13:36",
+    "health": 617.0,
+    "damage": 17.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Iguanodon": {
+    "tame_date": "29.08.2025 18:54:20",
+    "health": 273.0,
+    "damage": 289.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Shinehorn": {
+    "tame_date": "02.09.2025 13:34:36",
+    "health": 293.0,
+    "damage": 17.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Rock Elemental": {
+    "tame_date": "02.09.2025 16:48:09",
+    "health": 12045.0,
+    "damage": 121.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Velonasaur": {
+    "tame_date": "02.09.2025 17:25:35",
+    "health": 1262.0,
+    "damage": 458.0,
+    "win": 0,
+    "lose": 1
+  }
+}

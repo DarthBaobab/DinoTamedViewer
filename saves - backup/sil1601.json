@@ -1,0 +1,317 @@
+{
+  "Deinosuchus": {
+    "tame_date": "08.06.2025 18:03:04",
+    "health": 884.0,
+    "damage": 713.0,
+    "win": 1,
+    "lose": 1
+  },
+  "Raptor": {
+    "tame_date": "13.06.2025 22:07:07",
+    "health": 583.0,
+    "damage": 87.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Parasaur": {
+    "tame_date": "14.06.2025 00:09:35",
+    "health": 589.0,
+    "damage": 103.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Tapejara": {
+    "tame_date": "23.06.2025 20:57:03",
+    "health": 335.0,
+    "damage": 118.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Deinotherium": {
+    "tame_date": "27.06.2025 23:38:53",
+    "health": 1633.0,
+    "damage": 345.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Lightning Wyvern": {
+    "tame_date": "10.07.2025 19:08:37",
+    "health": 1325.0,
+    "damage": 518.0,
+    "win": 4,
+    "lose": 1
+  },
+  "Dire Bear": {
+    "tame_date": "10.07.2025 19:28:44",
+    "health": 1067.0,
+    "damage": 410.0,
+    "win": 0,
+    "lose": 3
+  },
+  "Hyaenodon": {
+    "tame_date": "11.07.2025 22:43:26",
+    "health": 509.0,
+    "damage": 222.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Spino": {
+    "tame_date": "15.07.2025 21:39:54",
+    "health": 972.0,
+    "damage": 203.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Electrophorus": {
+    "tame_date": "25.07.2025 16:29:30",
+    "health": 330.0,
+    "damage": 39.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Managarmr": {
+    "tame_date": "25.07.2025 18:05:39",
+    "health": 2064.0,
+    "damage": 301.0,
+    "win": 2,
+    "lose": 0
+  },
+  "Dreadmare": {
+    "tame_date": "25.07.2025 18:50:43",
+    "health": 1101.0,
+    "damage": 199.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Vulture": {
+    "tame_date": "01.08.2025 20:00:37",
+    "health": 149.0,
+    "damage": 152.0,
+    "win": 0,
+    "lose": 4
+  },
+  "Ammonite": {
+    "tame_date": "01.08.2025 21:35:59",
+    "health": 204.0,
+    "damage": 16.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Lymantria": {
+    "tame_date": "01.08.2025 22:48:17",
+    "health": 666.0,
+    "damage": 208.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Megaloceros": {
+    "tame_date": "04.08.2025 12:01:40",
+    "health": 888.0,
+    "damage": 431.0,
+    "win": 0,
+    "lose": 2
+  },
+  "Quetzal": {
+    "tame_date": "04.08.2025 15:06:24",
+    "health": 1337.0,
+    "damage": 217.0,
+    "win": 2,
+    "lose": 1
+  },
+  "Cat": {
+    "tame_date": "04.08.2025 18:46:46",
+    "health": 211.0,
+    "damage": 133.0,
+    "win": 0,
+    "lose": 4
+  },
+  "Oviraptor": {
+    "tame_date": "05.08.2025 19:49:57",
+    "health": 343.0,
+    "damage": 153.0,
+    "win": 0,
+    "lose": 3
+  },
+  "Karkinos": {
+    "tame_date": "05.08.2025 21:30:39",
+    "health": 880.0,
+    "damage": 219.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Phiomia": {
+    "tame_date": "12.08.2025 19:21:42",
+    "health": 387.0,
+    "damage": 96.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Compy": {
+    "tame_date": "12.08.2025 20:51:23",
+    "health": 346.0,
+    "damage": 48.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Microraptor": {
+    "tame_date": "12.08.2025 22:29:33",
+    "health": 372.0,
+    "damage": 46.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Stegosaurus": {
+    "tame_date": "12.08.2025 23:43:22",
+    "health": 1866.0,
+    "damage": 431.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Velonasaur": {
+    "tame_date": "29.08.2025 21:14:35",
+    "health": 878.0,
+    "damage": 244.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Megapithecus": {
+    "tame_date": "02.09.2025 12:49:30",
+    "health": 79653.0,
+    "damage": 525.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Giant Bee": {
+    "tame_date": "02.09.2025 13:16:59",
+    "health": 992.0,
+    "damage": 94.0,
+    "win": 1,
+    "lose": 1
+  },
+  "Cosmo": {
+    "tame_date": "02.09.2025 18:14:02",
+    "health": 158.0,
+    "damage": 15.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Lystrosaurus": {
+    "tame_date": "13.10.2025 20:34:15",
+    "health": 494.0,
+    "damage": 41.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Allosaurus": {
+    "tame_date": "31.10.2025 16:56:01",
+    "health": 1679.0,
+    "damage": 227.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Procoptodon": {
+    "tame_date": "31.10.2025 17:40:23",
+    "health": 408.0,
+    "damage": 110.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Brontosaurus": {
+    "tame_date": "31.10.2025 21:59:58",
+    "health": 1048.0,
+    "damage": 652.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Yutyrannus": {
+    "tame_date": "02.11.2025 20:45:42",
+    "health": 725.0,
+    "damage": 428.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Dreadnoughtus": {
+    "tame_date": "09.11.2025 19:23:41",
+    "health": 42790.0,
+    "damage": 1472.0,
+    "win": 1,
+    "lose": 0
+  },
+  "Daeodon": {
+    "tame_date": "16.11.2025 21:17:39",
+    "health": 1413.0,
+    "damage": 287.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Anglerfish": {
+    "tame_date": "16.11.2025 21:37:35",
+    "health": 880.0,
+    "damage": 447.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Megatherium": {
+    "tame_date": "23.11.2025 20:20:08",
+    "health": 1888.0,
+    "damage": 229.0,
+    "win": 0,
+    "lose": 1
+  },
+  "Meganeura": {
+    "tame_date": "24.11.2025 19:07:59",
+    "health": 374.0,
+    "damage": 134.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Pulmonoscorpius": {
+    "tame_date": "24.11.2025 19:29:16",
+    "health": 475.0,
+    "damage": 106.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Triceratops": {
+    "tame_date": "30.11.2025 16:36:52",
+    "health": 676.0,
+    "damage": 343.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Carnotaurus": {
+    "tame_date": "30.11.2025 18:51:49",
+    "health": 790.0,
+    "damage": 375.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Pyromane": {
+    "tame_date": "01.12.2025 18:54:48",
+    "health": 1749.0,
+    "damage": 229.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Diplocaulus": {
+    "tame_date": "01.12.2025 19:37:05",
+    "health": 428.0,
+    "damage": 105.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Dimorphodon": {
+    "tame_date": "02.12.2025 19:04:48",
+    "health": 367.0,
+    "damage": 287.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Jerboa": {
+    "tame_date": "02.12.2025 19:39:35",
+    "health": 539.0,
+    "damage": 45.0,
+    "win": 0,
+    "lose": 0
+  }
+}
