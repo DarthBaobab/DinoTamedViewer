@@ -29,8 +29,8 @@ async function loadDinoData(username) {
 
             const cellIcon = document.createElement("td");
 			const img = document.createElement("img");
-			img.src = `dino_icons/${dinoName}.png`;
-			img.alt = "Dino Icon";
+			img.src = `dino_icons/${dinoInfo.name}.png`;
+			img.alt = "";
 			img.style.width = "32px";
 			img.style.height = "32px";
 			cellIcon.appendChild(img);
