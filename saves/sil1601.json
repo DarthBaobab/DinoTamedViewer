@@ -1,20 +1,4 @@
 {
-  "1765220051": {
-    "name": "Magmasaur",
-    "tame_date": "08.12.2025 19:54:11",
-    "levelWild": 145,
-    "effectiveness": 1.0,
-    "level": 145,
-    "health": 24600,
-    "stamina": 4100,
-    "oxygen": 3080,
-    "food": 30800,
-    "weight": 2134,
-    "damage": 696,
-    "speed": 100,
-    "win": 1,
-    "lose": 0
-  },
   "1765221226": {
     "name": "Parasaur",
     "tame_date": "08.12.2025 20:13:46",

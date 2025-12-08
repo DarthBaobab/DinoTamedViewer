@@ -12,7 +12,7 @@
     "weight": 2134,
     "damage": 696,
     "speed": 100,
-    "win": 1,
+    "win": 2,
     "lose": 0
   },
   "1765221226": {
@@ -43,6 +43,22 @@
     "food": 30800,
     "weight": 1552,
     "damage": 169,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  },
+  "1765225902": {
+    "name": "Crystal Wyvern",
+    "tame_date": "08.12.2025 21:31:42",
+    "levelWild": 30,
+    "effectiveness": 100.0,
+    "level": 45,
+    "health": 6921,
+    "stamina": 789,
+    "oxygen": 585,
+    "food": 5850,
+    "weight": 474,
+    "damage": 103,
     "speed": 100,
     "win": 0,
     "lose": 0

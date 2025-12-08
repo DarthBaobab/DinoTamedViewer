@@ -14,21 +14,5 @@
     "speed": 100,
     "win": 1,
     "lose": 0
-  },
-  "1765221226": {
-    "name": "Parasaur",
-    "tame_date": "08.12.2025 20:13:46",
-    "levelWild": 65,
-    "effectiveness": 33.0,
-    "level": 75,
-    "health": 2760,
-    "stamina": 3330,
-    "oxygen": 1110,
-    "food": 11100,
-    "weight": 1120,
-    "damage": 76,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
   }
 }
