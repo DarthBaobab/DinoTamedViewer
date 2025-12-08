@@ -341,5 +341,19 @@
     "damage": 466.0,
     "win": 0,
     "lose": 0
+  },
+  "Ovis": {
+    "tame_date": "07.12.2025 17:36:08",
+    "health": 105.0,
+    "damage": 71.0,
+    "win": 0,
+    "lose": 0
+  },
+  "Gacha": {
+    "tame_date": "07.12.2025 18:29:42",
+    "health": 1428.0,
+    "damage": 253.0,
+    "win": 0,
+    "lose": 0
   }
 }
