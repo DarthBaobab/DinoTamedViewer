@@ -14,5 +14,21 @@
     "speed": 100,
     "win": 1,
     "lose": 0
+  },
+  "1765230925": {
+    "name": "Equus",
+    "tame_date": "08.12.2025 22:55:25",
+    "levelWild": 85,
+    "effectiveness": 1.0,
+    "level": 85,
+    "health": 4272,
+    "stamina": 5264,
+    "oxygen": 1410,
+    "food": 14100,
+    "weight": 938,
+    "damage": 93,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
