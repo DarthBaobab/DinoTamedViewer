@@ -53,3 +53,28 @@ th {
     font-style: italic;
     color: #555;
 }
+
+/* --- FIX: TableFilter Inputs korrekt anzeigen --- */
+
+/* Filterzeile kleineres Padding */
+#dinoTable thead tr:nth-child(2) th {
+    padding: 2px !important;
+}
+
+/* Inputs/Select sichtbar & normale Größe */
+#dinoTable thead tr:nth-child(2) input,
+#dinoTable thead tr:nth-child(2) select {
+    width: 100% !important;
+    box-sizing: border-box !important;
+    padding: 4px !important;
+    margin: 0 !important;
+    height: auto !important;
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 0.85em !important;
+}
+
+/* Icons in der Filterzeile zentrieren (nur falls Icon-Spalte sichtbar bleiben soll) */
+#dinoTable thead tr:nth-child(2) th:nth-child(2) {
+    text-align: center;
+}
