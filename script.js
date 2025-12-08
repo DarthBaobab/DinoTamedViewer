@@ -94,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             // Filter nach dem Füllen der Tabelle aktivieren
             const tf = new TableFilter('dinoTable', {
-                base_path: 'https://unpkg.com/tablefilter@1.0.0/dist/tablefilter/',
+                base_path: 'https://unpkg.com/tablefilter@0.7.2/dist/tablefilter/',
                 auto_filter: true,
                 rows_counter: true,
                 btn_reset: true,
