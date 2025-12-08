@@ -14,5 +14,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1765229160": {
+    "name": "Gallimimus",
+    "tame_date": "08.12.2025 22:26:00",
+    "levelWild": 25,
+    "effectiveness": 86.0,
+    "level": 35,
+    "health": 870,
+    "stamina": 1020,
+    "oxygen": 510,
+    "food": 3400,
+    "weight": 390,
+    "damage": 32,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
