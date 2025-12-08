@@ -97,17 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 base_path: 'https://unpkg.com/tablefilter@0.7.2/dist/tablefilter/',
                 auto_filter: true,
                 rows_counter: true,
-                btn_reset: true,
-				filters_row_index: 1,
-				col_0: 'number',
-				col_1: 'none',      // Icon – kein Filter
-				col_2: 'string',
-				col_3: 'number',
-				col_4: 'number',
-				col_5: 'string',
-				col_6: 'number',
-				col_7: 'number',
-				col_8: 'string'				
+                btn_reset: true		
             });
             tf.init();
         });
