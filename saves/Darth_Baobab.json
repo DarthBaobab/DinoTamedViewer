@@ -30,5 +30,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1765224175": {
+    "name": "Argentavis",
+    "tame_date": "08.12.2025 21:02:55",
+    "levelWild": 145,
+    "effectiveness": 1.0,
+    "level": 145,
+    "health": 10877,
+    "stamina": 3280,
+    "oxygen": 2310,
+    "food": 30800,
+    "weight": 1552,
+    "damage": 169,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
