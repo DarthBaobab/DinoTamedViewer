@@ -47,22 +47,6 @@
     "win": 0,
     "lose": 0
   },
-  "1765733963": {
-    "name": "Megalania",
-    "tame_date": "14.12.2025 18:39:23",
-    "levelWild": 35,
-    "effectiveness": 73.0,
-    "level": 47,
-    "health": 3744,
-    "stamina": 1760,
-    "oxygen": 880,
-    "food": 6600,
-    "weight": 672,
-    "damage": 44,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1765734929": {
     "name": "Direwolf",
     "tame_date": "14.12.2025 18:55:29",
@@ -75,6 +59,22 @@
     "food": 17280,
     "weight": 572,
     "damage": 301,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  },
+  "1765735876": {
+    "name": "Terror Bird",
+    "tame_date": "14.12.2025 19:11:16",
+    "levelWild": 105,
+    "effectiveness": 44.0,
+    "level": 128,
+    "health": 5886,
+    "stamina": 1824,
+    "oxygen": 1710,
+    "food": 17100,
+    "weight": 328,
+    "damage": 122,
     "speed": 100,
     "win": 0,
     "lose": 0
