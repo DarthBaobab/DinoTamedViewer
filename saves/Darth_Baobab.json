@@ -78,5 +78,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1765728084": {
+    "name": "Pulmonoscorpius",
+    "tame_date": "14.12.2025 17:01:24",
+    "levelWild": 35,
+    "effectiveness": 78.0,
+    "level": 48,
+    "health": 2184,
+    "stamina": 880,
+    "oxygen": 660,
+    "food": 6600,
+    "weight": 336,
+    "damage": 49,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
