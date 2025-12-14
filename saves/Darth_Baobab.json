@@ -110,5 +110,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1765734929": {
+    "name": "Direwolf",
+    "tame_date": "14.12.2025 18:55:29",
+    "levelWild": 135,
+    "effectiveness": 89.0,
+    "level": 195,
+    "health": 9174,
+    "stamina": 3744,
+    "oxygen": 2160,
+    "food": 17280,
+    "weight": 572,
+    "damage": 301,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
