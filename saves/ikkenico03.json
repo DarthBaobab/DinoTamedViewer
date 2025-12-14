@@ -78,5 +78,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1765745298": {
+    "name": "Deinonychus",
+    "tame_date": "14.12.2025 21:48:18",
+    "levelWild": 50,
+    "effectiveness": 75.0,
+    "level": 68,
+    "health": 2160,
+    "stamina": 885,
+    "oxygen": 885,
+    "food": 7080,
+    "weight": 287,
+    "damage": 128,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
