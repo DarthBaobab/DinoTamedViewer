@@ -1,1 +1,18 @@
-{}
+{
+  "1765729835": {
+    "name": "Drakeling",
+    "tame_date": "14.12.2025 17:30:35",
+    "levelWild": 45,
+    "effectiveness": 96.0,
+    "level": 66,
+    "health": 1470,
+    "stamina": 810,
+    "oxygen": 810,
+    "food": 5400,
+    "weight": 109,
+    "damage": 54,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  }
+}

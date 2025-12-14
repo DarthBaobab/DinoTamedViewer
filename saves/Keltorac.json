@@ -15,22 +15,6 @@
     "win": 0,
     "lose": 0
   },
-  "1765225902": {
-    "name": "Crystal Wyvern",
-    "tame_date": "08.12.2025 21:31:42",
-    "levelWild": 30,
-    "effectiveness": 90.0,
-    "level": 43,
-    "health": 6921,
-    "stamina": 789,
-    "oxygen": 585,
-    "food": 5850,
-    "weight": 474,
-    "damage": 103,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1765231949": {
     "name": "Titanoboa",
     "tame_date": "08.12.2025 23:12:29",
