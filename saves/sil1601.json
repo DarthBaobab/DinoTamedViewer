@@ -31,22 +31,6 @@
     "win": 0,
     "lose": 0
   },
-  "1765230925": {
-    "name": "Equus",
-    "tame_date": "08.12.2025 22:55:25",
-    "levelWild": 85,
-    "effectiveness": 36.0,
-    "level": 100,
-    "health": 4272,
-    "stamina": 5264,
-    "oxygen": 1410,
-    "food": 14100,
-    "weight": 938,
-    "damage": 93,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1765231949": {
     "name": "Titanoboa",
     "tame_date": "08.12.2025 23:12:29",
@@ -91,6 +75,22 @@
     "food": 17100,
     "weight": 328,
     "damage": 122,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  },
+  "1766340822": {
+    "name": "Direwolf",
+    "tame_date": "21.12.2025 19:13:42",
+    "levelWild": 150,
+    "effectiveness": 1.0,
+    "level": 150,
+    "health": 10164,
+    "stamina": 4134,
+    "oxygen": 2385,
+    "food": 19080,
+    "weight": 617,
+    "damage": 331,
     "speed": 100,
     "win": 0,
     "lose": 0
