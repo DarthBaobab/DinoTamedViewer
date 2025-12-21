@@ -63,22 +63,6 @@
     "win": 0,
     "lose": 0
   },
-  "1765735876": {
-    "name": "Terror Bird",
-    "tame_date": "14.12.2025 19:11:16",
-    "levelWild": 105,
-    "effectiveness": 32.0,
-    "level": 121,
-    "health": 5886,
-    "stamina": 1824,
-    "oxygen": 1710,
-    "food": 17100,
-    "weight": 328,
-    "damage": 122,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1766340822": {
     "name": "Direwolf",
     "tame_date": "21.12.2025 19:13:42",

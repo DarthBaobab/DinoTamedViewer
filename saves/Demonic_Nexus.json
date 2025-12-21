@@ -1,20 +1,4 @@
 {
-  "1765743601": {
-    "name": "Basilisk",
-    "tame_date": "14.12.2025 21:20:01",
-    "levelWild": 70,
-    "effectiveness": 13.0,
-    "level": 74,
-    "health": 40700,
-    "stamina": 5135,
-    "oxygen": 0,
-    "food": 19750,
-    "weight": 1904,
-    "damage": 182,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1766350366": {
     "name": "Pachy",
     "tame_date": "21.12.2025 21:52:46",
