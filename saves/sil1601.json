@@ -78,5 +78,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767369769": {
+    "name": "Phiomia",
+    "tame_date": "02.01.2026 17:02:49",
+    "levelWild": 30,
+    "effectiveness": 35.0,
+    "level": 35,
+    "health": 2040,
+    "stamina": 1170,
+    "oxygen": 585,
+    "food": 11700,
+    "weight": 316,
+    "damage": 39,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
