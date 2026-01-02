@@ -190,5 +190,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767396481": {
+    "name": "Pyromane",
+    "tame_date": "03.01.2026 00:28:01",
+    "levelWild": 75,
+    "effectiveness": 83.0,
+    "level": 106,
+    "health": 9480,
+    "stamina": 2940,
+    "oxygen": 1260,
+    "food": 8400,
+    "weight": 744,
+    "damage": 183,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
