@@ -206,5 +206,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767398194": {
+    "name": "Ichthyornis",
+    "tame_date": "03.01.2026 00:56:34",
+    "levelWild": 50,
+    "effectiveness": 66.0,
+    "level": 66,
+    "health": 540,
+    "stamina": 885,
+    "oxygen": 885,
+    "food": 5900,
+    "weight": 104,
+    "damage": 50,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
