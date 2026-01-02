@@ -110,5 +110,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767384774": {
+    "name": "Diplocaulus",
+    "tame_date": "02.01.2026 21:12:54",
+    "levelWild": 140,
+    "effectiveness": 95.0,
+    "level": 206,
+    "health": 7200,
+    "stamina": 2389,
+    "oxygen": 15645,
+    "food": 22350,
+    "weight": 567,
+    "damage": 149,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
