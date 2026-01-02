@@ -94,5 +94,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767383540": {
+    "name": "Troodon",
+    "tame_date": "02.01.2026 20:52:20",
+    "levelWild": 30,
+    "effectiveness": 100.0,
+    "level": 45,
+    "health": 1360,
+    "stamina": 585,
+    "oxygen": 585,
+    "food": 780,
+    "weight": 227,
+    "damage": 36,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
