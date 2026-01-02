@@ -126,5 +126,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767387920": {
+    "name": "Tusoteuthis",
+    "tame_date": "02.01.2026 22:05:20",
+    "levelWild": 65,
+    "effectiveness": 11.0,
+    "level": 68,
+    "health": 37260,
+    "stamina": 2220,
+    "oxygen": 1623,
+    "food": 23680,
+    "weight": 1824,
+    "damage": 257,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
