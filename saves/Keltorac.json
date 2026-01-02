@@ -79,22 +79,6 @@
     "win": 0,
     "lose": 0
   },
-  "1767374671": {
-    "name": "Bison",
-    "tame_date": "02.01.2026 18:24:31",
-    "levelWild": 40,
-    "effectiveness": 91.0,
-    "level": 58,
-    "health": 7040,
-    "stamina": 2450,
-    "oxygen": 735,
-    "food": 15925,
-    "weight": 1157,
-    "damage": 108,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1767377539": {
     "name": "Daeodon",
     "tame_date": "02.01.2026 19:12:19",
@@ -107,6 +91,22 @@
     "food": 38500,
     "weight": 1552,
     "damage": 173,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  },
+  "1767381969": {
+    "name": "Stegosaurus",
+    "tame_date": "02.01.2026 20:26:09",
+    "levelWild": 70,
+    "effectiveness": 68.0,
+    "level": 93,
+    "health": 9620,
+    "stamina": 2370,
+    "oxygen": 1185,
+    "food": 47400,
+    "weight": 1190,
+    "damage": 180,
     "speed": 100,
     "win": 0,
     "lose": 0

@@ -172,7 +172,7 @@
     "weight": 1552,
     "damage": 173,
     "speed": 100,
-    "win": 0,
+    "win": 1,
     "lose": 0
   }
 }
