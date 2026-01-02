@@ -94,5 +94,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767377539": {
+    "name": "Daeodon",
+    "tame_date": "02.01.2026 19:12:19",
+    "levelWild": 145,
+    "effectiveness": 1.0,
+    "level": 145,
+    "health": 26820,
+    "stamina": 3850,
+    "oxygen": 2310,
+    "food": 38500,
+    "weight": 1552,
+    "damage": 173,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
