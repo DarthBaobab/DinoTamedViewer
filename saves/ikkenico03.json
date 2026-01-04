@@ -190,5 +190,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767558295": {
+    "name": "Basilisk",
+    "tame_date": "04.01.2026 21:24:55",
+    "levelWild": 95,
+    "effectiveness": -4.0,
+    "level": 94,
+    "health": 54450,
+    "stamina": 6760,
+    "oxygen": 0,
+    "food": 26000,
+    "weight": 2304,
+    "damage": 232,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
