@@ -110,5 +110,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767565252": {
+    "name": "Drakeling",
+    "tame_date": "04.01.2026 23:20:52",
+    "levelWild": 105,
+    "effectiveness": 87.0,
+    "level": 150,
+    "health": 3270,
+    "stamina": 1710,
+    "oxygen": 1710,
+    "food": 11400,
+    "weight": 169,
+    "damage": 114,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
