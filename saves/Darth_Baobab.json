@@ -238,5 +238,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767550781": {
+    "name": "Maeguana",
+    "tame_date": "04.01.2026 19:19:41",
+    "levelWild": 80,
+    "effectiveness": 40.0,
+    "level": 96,
+    "health": 5440,
+    "stamina": 2188,
+    "oxygen": 150,
+    "food": 17800,
+    "weight": 1032,
+    "damage": 99,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
