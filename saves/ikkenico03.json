@@ -174,5 +174,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767555461": {
+    "name": "Dung Beetle",
+    "tame_date": "04.01.2026 20:37:41",
+    "levelWild": 125,
+    "effectiveness": 25.0,
+    "level": 140,
+    "health": 5160,
+    "stamina": 1340,
+    "oxygen": 2010,
+    "food": 12060,
+    "weight": 129,
+    "damage": 129,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
