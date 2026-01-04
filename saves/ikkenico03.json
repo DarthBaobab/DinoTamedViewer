@@ -206,5 +206,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767561968": {
+    "name": "Baryonyx",
+    "tame_date": "04.01.2026 22:26:08",
+    "levelWild": 90,
+    "effectiveness": -10.0,
+    "level": 86,
+    "health": 8272,
+    "stamina": 3173,
+    "oxygen": 2183,
+    "food": 22275,
+    "weight": 859,
+    "damage": 213,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
