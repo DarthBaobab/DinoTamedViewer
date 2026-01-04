@@ -270,5 +270,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1767563479": {
+    "name": "Electrophorus",
+    "tame_date": "04.01.2026 22:51:19",
+    "levelWild": 140,
+    "effectiveness": -5.0,
+    "level": 137,
+    "health": 5184,
+    "stamina": 2389,
+    "oxygen": 15645,
+    "food": 22350,
+    "weight": 567,
+    "damage": 142,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
