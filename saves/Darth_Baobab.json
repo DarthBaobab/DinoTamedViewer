@@ -318,5 +318,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1768159483": {
+    "name": "Microraptor",
+    "tame_date": "11.01.2026 20:24:43",
+    "levelWild": 100,
+    "effectiveness": 85.0,
+    "level": 142,
+    "health": 2704,
+    "stamina": 1090,
+    "oxygen": 1635,
+    "food": 4905,
+    "weight": 144,
+    "damage": 107,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
