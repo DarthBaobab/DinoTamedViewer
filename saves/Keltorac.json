@@ -142,5 +142,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1768162981": {
+    "name": "Managarmr",
+    "tame_date": "11.01.2026 21:23:01",
+    "levelWild": 85,
+    "effectiveness": 93.0,
+    "level": 124,
+    "health": 14685,
+    "stamina": 2820,
+    "oxygen": 1410,
+    "food": 18800,
+    "weight": 804,
+    "damage": 203,
+    "speed": 150,
+    "win": 0,
+    "lose": 0
   }
 }
