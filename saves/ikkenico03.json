@@ -238,5 +238,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1768155469": {
+    "name": "Ravager",
+    "tame_date": "11.01.2026 19:17:49",
+    "levelWild": 30,
+    "effectiveness": 100.0,
+    "level": 45,
+    "health": 2720,
+    "stamina": 1365,
+    "oxygen": 585,
+    "food": 4680,
+    "weight": 790,
+    "damage": 54,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
