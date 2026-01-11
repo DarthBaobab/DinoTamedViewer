@@ -78,5 +78,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1768152262": {
+    "name": "Diplodocus",
+    "tame_date": "11.01.2026 18:24:22",
+    "levelWild": 40,
+    "effectiveness": 86.0,
+    "level": 57,
+    "health": 14960,
+    "stamina": 2695,
+    "oxygen": 1470,
+    "food": 49000,
+    "weight": 1424,
+    "damage": 177,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
