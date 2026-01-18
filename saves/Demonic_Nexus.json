@@ -14,5 +14,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1768758735": {
+    "name": "Featherlight",
+    "tame_date": "18.01.2026 18:52:15",
+    "levelWild": 80,
+    "effectiveness": 100.0,
+    "level": 120,
+    "health": 1932,
+    "stamina": 890,
+    "oxygen": 1760,
+    "food": 4005,
+    "weight": 149,
+    "damage": 82,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
