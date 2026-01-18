@@ -158,5 +158,21 @@
     "speed": 150,
     "win": 0,
     "lose": 0
+  },
+  "1768752458": {
+    "name": "Bloodstalker",
+    "tame_date": "18.01.2026 17:07:38",
+    "levelWild": 135,
+    "effectiveness": 100.0,
+    "level": 202,
+    "health": 12510,
+    "stamina": 8640,
+    "oxygen": 2160,
+    "food": 17280,
+    "weight": 1288,
+    "damage": 160,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
