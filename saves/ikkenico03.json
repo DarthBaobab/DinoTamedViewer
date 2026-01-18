@@ -286,5 +286,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1768753883": {
+    "name": "Roll Rat",
+    "tame_date": "18.01.2026 17:31:23",
+    "levelWild": 130,
+    "effectiveness": 38.0,
+    "level": 154,
+    "health": 22780,
+    "stamina": 4170,
+    "oxygen": 2085,
+    "food": 41700,
+    "weight": 1432,
+    "damage": 300,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
