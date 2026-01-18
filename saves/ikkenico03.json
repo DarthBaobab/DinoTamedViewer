@@ -302,5 +302,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1768765401": {
+    "name": "Reaper",
+    "tame_date": "18.01.2026 20:43:21",
+    "levelWild": 110,
+    "effectiveness": 13.0,
+    "level": 117,
+    "health": 70506,
+    "stamina": 5712,
+    "oxygen": 1785,
+    "food": 35700,
+    "weight": 1287,
+    "damage": 511,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
