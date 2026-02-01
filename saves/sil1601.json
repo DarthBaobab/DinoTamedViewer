@@ -126,5 +126,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1769980631": {
+    "name": "Shinehorn",
+    "tame_date": "01.02.2026 22:17:11",
+    "levelWild": 85,
+    "effectiveness": 92.0,
+    "level": 124,
+    "health": 2047,
+    "stamina": 1860,
+    "oxygen": 1860,
+    "food": 4230,
+    "weight": 268,
+    "damage": 96,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
