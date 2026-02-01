@@ -174,5 +174,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1769979086": {
+    "name": "Pelagornis",
+    "tame_date": "01.02.2026 21:51:26",
+    "levelWild": 100,
+    "effectiveness": 100.0,
+    "level": 150,
+    "health": 4992,
+    "stamina": 1071,
+    "oxygen": 1635,
+    "food": 13080,
+    "weight": 447,
+    "damage": 115,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
