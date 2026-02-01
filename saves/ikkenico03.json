@@ -366,5 +366,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1769973140": {
+    "name": "Chalicotherium",
+    "tame_date": "01.02.2026 20:12:20",
+    "levelWild": 80,
+    "effectiveness": 37.0,
+    "level": 94,
+    "health": 10080,
+    "stamina": 2670,
+    "oxygen": 1335,
+    "food": 35600,
+    "weight": 1032,
+    "damage": 194,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
