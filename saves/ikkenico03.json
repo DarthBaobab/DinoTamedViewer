@@ -350,5 +350,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1769970524": {
+    "name": "Castoroides",
+    "tame_date": "01.02.2026 19:28:44",
+    "levelWild": 65,
+    "effectiveness": 78.0,
+    "level": 90,
+    "health": 6210,
+    "stamina": 1332,
+    "oxygen": 5550,
+    "food": 14800,
+    "weight": 684,
+    "damage": 92,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
