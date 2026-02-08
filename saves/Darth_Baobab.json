@@ -287,22 +287,6 @@
     "win": 0,
     "lose": 0
   },
-  "1768151061": {
-    "name": "Gasbags",
-    "tame_date": "11.01.2026 18:04:21",
-    "levelWild": 65,
-    "effectiveness": -5.0,
-    "level": 64,
-    "health": 8970,
-    "stamina": 4440,
-    "oxygen": 6760,
-    "food": 25900,
-    "weight": 6840,
-    "damage": 69,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1768159483": {
     "name": "Microraptor",
     "tame_date": "11.01.2026 20:24:43",
@@ -427,6 +411,22 @@
     "food": 4230,
     "weight": 268,
     "damage": 96,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  },
+  "1770569989": {
+    "name": "Stegosaurus",
+    "tame_date": "08.02.2026 17:59:49",
+    "levelWild": 100,
+    "effectiveness": 21.0,
+    "level": 110,
+    "health": 13520,
+    "stamina": 3270,
+    "oxygen": 1635,
+    "food": 65400,
+    "weight": 1490,
+    "damage": 240,
     "speed": 100,
     "win": 0,
     "lose": 0

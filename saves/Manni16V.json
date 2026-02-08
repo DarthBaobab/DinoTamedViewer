@@ -158,5 +158,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1770569989": {
+    "name": "Stegosaurus",
+    "tame_date": "08.02.2026 17:59:49",
+    "levelWild": 100,
+    "effectiveness": 24.0,
+    "level": 112,
+    "health": 13520,
+    "stamina": 3270,
+    "oxygen": 1635,
+    "food": 65400,
+    "weight": 1490,
+    "damage": 240,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
