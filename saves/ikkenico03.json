@@ -366,5 +366,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1770579910": {
+    "name": "Dreadmare",
+    "tame_date": "08.02.2026 20:45:10",
+    "levelWild": 75,
+    "effectiveness": 83.0,
+    "level": 106,
+    "health": 15800,
+    "stamina": 5040,
+    "oxygen": 1260,
+    "food": 14700,
+    "weight": 1116,
+    "damage": 97,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
