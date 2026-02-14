@@ -382,5 +382,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771085411": {
+    "name": "Giganotosaurus",
+    "tame_date": "14.02.2026 17:10:11",
+    "levelWild": 135,
+    "effectiveness": 100.0,
+    "level": 202,
+    "health": 85360,
+    "stamina": 534,
+    "oxygen": 284,
+    "food": 5340,
+    "weight": 1638,
+    "damage": 3850,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
