@@ -462,5 +462,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771084365": {
+    "name": "Deathworm",
+    "tame_date": "14.02.2026 16:52:45",
+    "levelWild": 110,
+    "effectiveness": 100.0,
+    "level": 165,
+    "health": 24360,
+    "stamina": 1190,
+    "oxygen": 0,
+    "food": 1190,
+    "weight": 318,
+    "damage": 1424,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
