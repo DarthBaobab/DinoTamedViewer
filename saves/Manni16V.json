@@ -206,5 +206,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771182853": {
+    "name": "Woolly Rhino",
+    "tame_date": "15.02.2026 20:14:13",
+    "levelWild": 90,
+    "effectiveness": 70.0,
+    "level": 121,
+    "health": 9400,
+    "stamina": 1188,
+    "oxygen": 990,
+    "food": 29700,
+    "weight": 2085,
+    "damage": 218,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
