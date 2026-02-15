@@ -558,5 +558,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771189186": {
+    "name": "Titanoboa",
+    "tame_date": "15.02.2026 21:59:46",
+    "levelWild": 125,
+    "effectiveness": 89.0,
+    "level": 180,
+    "health": 4386,
+    "stamina": 2010,
+    "oxygen": 0,
+    "food": 16080,
+    "weight": 522,
+    "damage": 278,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
