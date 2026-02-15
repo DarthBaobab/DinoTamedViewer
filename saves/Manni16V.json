@@ -190,5 +190,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771174373": {
+    "name": "Pachyrhinosaurus",
+    "tame_date": "15.02.2026 17:52:53",
+    "levelWild": 85,
+    "effectiveness": 66.0,
+    "level": 113,
+    "health": 6675,
+    "stamina": 1410,
+    "oxygen": 1410,
+    "food": 28200,
+    "weight": 953,
+    "damage": 112,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
