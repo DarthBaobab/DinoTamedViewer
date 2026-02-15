@@ -414,5 +414,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771180071": {
+    "name": "Wyvern",
+    "tame_date": "15.02.2026 19:27:51",
+    "levelWild": 80,
+    "effectiveness": 75.0,
+    "level": 110,
+    "health": 16621,
+    "stamina": 1579,
+    "oxygen": 1335,
+    "food": 16020,
+    "weight": 1032,
+    "damage": 396,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
