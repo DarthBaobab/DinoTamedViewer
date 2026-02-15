@@ -190,5 +190,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771172680": {
+    "name": "Dimorphodon",
+    "tame_date": "15.02.2026 17:24:40",
+    "levelWild": 110,
+    "effectiveness": 96.0,
+    "level": 162,
+    "health": 2850,
+    "stamina": 1785,
+    "oxygen": 1785,
+    "food": 10710,
+    "weight": 159,
+    "damage": 132,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
