@@ -206,5 +206,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771177264": {
+    "name": "Ferox",
+    "tame_date": "15.02.2026 18:41:04",
+    "levelWild": 130,
+    "effectiveness": 81.0,
+    "level": 182,
+    "health": 29480,
+    "stamina": 13900,
+    "oxygen": 2085,
+    "food": 16680,
+    "weight": 1253,
+    "damage": 304,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
