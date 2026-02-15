@@ -430,5 +430,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771181273": {
+    "name": "Spino",
+    "tame_date": "15.02.2026 19:47:53",
+    "levelWild": 75,
+    "effectiveness": 69.0,
+    "level": 100,
+    "health": 12719,
+    "stamina": 2940,
+    "oxygen": 5460,
+    "food": 21840,
+    "weight": 868,
+    "damage": 188,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
