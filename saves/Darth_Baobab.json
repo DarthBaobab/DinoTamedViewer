@@ -574,5 +574,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771358527": {
+    "name": "Beelzebufo",
+    "tame_date": "17.02.2026 21:02:07",
+    "levelWild": 105,
+    "effectiveness": 61.0,
+    "level": 137,
+    "health": 4796,
+    "stamina": 2166,
+    "oxygen": 1710,
+    "food": 17100,
+    "weight": 472,
+    "damage": 116,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }

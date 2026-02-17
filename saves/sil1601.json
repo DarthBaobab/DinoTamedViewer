@@ -158,5 +158,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771362015": {
+    "name": "Arthropluera",
+    "tame_date": "17.02.2026 22:00:15",
+    "levelWild": 140,
+    "effectiveness": 2.0,
+    "level": 141,
+    "health": 14400,
+    "stamina": 2980,
+    "oxygen": 0,
+    "food": 17880,
+    "weight": 378,
+    "damage": 157,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
