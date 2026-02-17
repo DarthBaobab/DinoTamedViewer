@@ -142,5 +142,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771354502": {
+    "name": "Yi Ling",
+    "tame_date": "17.02.2026 19:55:02",
+    "levelWild": 25,
+    "effectiveness": 70.0,
+    "level": 33,
+    "health": 1885,
+    "stamina": 1020,
+    "oxygen": 510,
+    "food": 4080,
+    "weight": 212,
+    "damage": 47,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
