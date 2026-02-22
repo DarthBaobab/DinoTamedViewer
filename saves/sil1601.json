@@ -174,5 +174,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771791930": {
+    "name": "Mesopithecus",
+    "tame_date": "22.02.2026 21:25:30",
+    "levelWild": 105,
+    "effectiveness": 94.0,
+    "level": 154,
+    "health": 2507,
+    "stamina": 1140,
+    "oxygen": 1710,
+    "food": 5130,
+    "weight": 174,
+    "damage": 116,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
