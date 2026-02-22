@@ -478,5 +478,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771790799": {
+    "name": "Archelon",
+    "tame_date": "22.02.2026 21:06:39",
+    "levelWild": 100,
+    "effectiveness": 36.0,
+    "level": 118,
+    "health": 29120,
+    "stamina": 8497,
+    "oxygen": 0,
+    "food": 38150,
+    "weight": 2980,
+    "damage": 127,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
