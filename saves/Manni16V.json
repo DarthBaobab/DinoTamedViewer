@@ -1,20 +1,4 @@
 {
-  "1765743601": {
-    "name": "Basilisk",
-    "tame_date": "14.12.2025 21:20:01",
-    "levelWild": 70,
-    "effectiveness": 13.0,
-    "level": 74,
-    "health": 40700,
-    "stamina": 5135,
-    "oxygen": 0,
-    "food": 19750,
-    "weight": 1904,
-    "damage": 182,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1766350366": {
     "name": "Pachy",
     "tame_date": "21.12.2025 21:52:46",
@@ -95,22 +79,6 @@
     "win": 0,
     "lose": 0
   },
-  "1768162981": {
-    "name": "Managarmr",
-    "tame_date": "11.01.2026 21:23:01",
-    "levelWild": 85,
-    "effectiveness": 91.0,
-    "level": 123,
-    "health": 14685,
-    "stamina": 2820,
-    "oxygen": 1410,
-    "food": 18800,
-    "weight": 804,
-    "damage": 203,
-    "speed": 150,
-    "win": 0,
-    "lose": 0
-  },
   "1768752458": {
     "name": "Bloodstalker",
     "tame_date": "18.01.2026 17:07:38",
@@ -123,22 +91,6 @@
     "food": 17280,
     "weight": 1288,
     "damage": 160,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
-  "1769025279": {
-    "name": "Snow Owl",
-    "tame_date": "21.01.2026 20:54:39",
-    "levelWild": 135,
-    "effectiveness": 71.0,
-    "level": 182,
-    "health": 9035,
-    "stamina": 5040,
-    "oxygen": 2160,
-    "food": 28800,
-    "weight": 1447,
-    "damage": 159,
     "speed": 100,
     "win": 0,
     "lose": 0
@@ -175,22 +127,6 @@
     "win": 0,
     "lose": 0
   },
-  "1771172679": {
-    "name": "Dimorphodon",
-    "tame_date": "15.02.2026 17:24:39",
-    "levelWild": 110,
-    "effectiveness": 98.0,
-    "level": 163,
-    "health": 2850,
-    "stamina": 1785,
-    "oxygen": 1785,
-    "food": 10710,
-    "weight": 159,
-    "damage": 132,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1771174373": {
     "name": "Pachyrhinosaurus",
     "tame_date": "15.02.2026 17:52:53",
@@ -219,22 +155,6 @@
     "food": 29700,
     "weight": 2085,
     "damage": 218,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
-  "1771782909": {
-    "name": "Fenrir",
-    "tame_date": "22.02.2026 18:55:09",
-    "levelWild": 145,
-    "effectiveness": 69.0,
-    "level": 195,
-    "health": 22350,
-    "stamina": 5082,
-    "oxygen": 2310,
-    "food": 30800,
-    "weight": 2328,
-    "damage": 338,
     "speed": 100,
     "win": 0,
     "lose": 0
