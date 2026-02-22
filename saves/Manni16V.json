@@ -174,5 +174,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771796592": {
+    "name": "Procoptodon",
+    "tame_date": "22.02.2026 22:43:12",
+    "levelWild": 95,
+    "effectiveness": 94.0,
+    "level": 139,
+    "health": 7920,
+    "stamina": 3640,
+    "oxygen": 1560,
+    "food": 15600,
+    "weight": 1584,
+    "damage": 114,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
