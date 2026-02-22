@@ -446,5 +446,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1771779687": {
+    "name": "Gallimimus",
+    "tame_date": "22.02.2026 18:01:27",
+    "levelWild": 145,
+    "effectiveness": 100.0,
+    "level": 217,
+    "health": 4470,
+    "stamina": 4620,
+    "oxygen": 2310,
+    "food": 15400,
+    "weight": 990,
+    "damage": 152,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
