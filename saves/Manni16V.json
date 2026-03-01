@@ -190,5 +190,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1772382836": {
+    "name": "Moschops",
+    "tame_date": "01.03.2026 17:33:56",
+    "levelWild": 140,
+    "effectiveness": 100.0,
+    "level": 210,
+    "health": 10800,
+    "stamina": 4470,
+    "oxygen": 2235,
+    "food": 4470,
+    "weight": 756,
+    "damage": 310,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }

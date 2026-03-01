@@ -143,22 +143,6 @@
     "win": 0,
     "lose": 0
   },
-  "1767543562": {
-    "name": "Rex",
-    "tame_date": "04.01.2026 17:19:22",
-    "levelWild": 15,
-    "effectiveness": 69.0,
-    "level": 20,
-    "health": 4180,
-    "stamina": 1008,
-    "oxygen": 360,
-    "food": 7200,
-    "weight": 640,
-    "damage": 104,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1767555461": {
     "name": "Dung Beetle",
     "tame_date": "04.01.2026 20:37:41",
@@ -459,6 +443,22 @@
     "food": 38150,
     "weight": 2980,
     "damage": 127,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  },
+  "1772382836": {
+    "name": "Moschops",
+    "tame_date": "01.03.2026 17:33:56",
+    "levelWild": 140,
+    "effectiveness": 96.0,
+    "level": 207,
+    "health": 10800,
+    "stamina": 4470,
+    "oxygen": 2235,
+    "food": 4470,
+    "weight": 756,
+    "damage": 310,
     "speed": 100,
     "win": 0,
     "lose": 0
