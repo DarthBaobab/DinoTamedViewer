@@ -606,5 +606,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1772385040": {
+    "name": "Snow Owl",
+    "tame_date": "01.03.2026 18:10:40",
+    "levelWild": 75,
+    "effectiveness": 56.0,
+    "level": 96,
+    "health": 5135,
+    "stamina": 2940,
+    "oxygen": 1260,
+    "food": 16800,
+    "weight": 967,
+    "damage": 99,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
