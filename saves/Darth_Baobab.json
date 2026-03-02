@@ -670,5 +670,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1772485472": {
+    "name": "Doedicurus",
+    "tame_date": "02.03.2026 22:04:32",
+    "levelWild": 130,
+    "effectiveness": 7.0,
+    "level": 134,
+    "health": 22780,
+    "stamina": 4170,
+    "oxygen": 2085,
+    "food": 41700,
+    "weight": 895,
+    "damage": 290,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
