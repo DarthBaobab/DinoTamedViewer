@@ -654,5 +654,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1772482820": {
+    "name": "Cat",
+    "tame_date": "02.03.2026 21:20:20",
+    "levelWild": 130,
+    "effectiveness": 89.0,
+    "level": 187,
+    "health": 3350,
+    "stamina": 1390,
+    "oxygen": 2085,
+    "food": 6255,
+    "weight": 189,
+    "damage": 139,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
