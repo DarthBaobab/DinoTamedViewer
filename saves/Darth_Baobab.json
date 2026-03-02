@@ -638,5 +638,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1772479843": {
+    "name": "Desmodus",
+    "tame_date": "02.03.2026 20:30:43",
+    "levelWild": 120,
+    "effectiveness": 81.0,
+    "level": 168,
+    "health": 6870,
+    "stamina": 3475,
+    "oxygen": 1935,
+    "food": 20640,
+    "weight": 1183,
+    "damage": 278,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
