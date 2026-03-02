@@ -622,5 +622,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1772478365": {
+    "name": "Titanosaur",
+    "tame_date": "02.03.2026 20:06:05",
+    "levelWild": 120,
+    "effectiveness": 16.0,
+    "level": 129,
+    "health": 468000,
+    "stamina": 2000,
+    "oxygen": 600,
+    "food": 111456,
+    "weight": 50357,
+    "damage": 1238,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
