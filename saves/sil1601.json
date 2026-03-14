@@ -190,5 +190,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1773531440": {
+    "name": "Sinomacrops",
+    "tame_date": "15.03.2026 00:37:20",
+    "levelWild": 75,
+    "effectiveness": 54.0,
+    "level": 95,
+    "health": 1738,
+    "stamina": 1260,
+    "oxygen": 1260,
+    "food": 7560,
+    "weight": 228,
+    "damage": 84,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
