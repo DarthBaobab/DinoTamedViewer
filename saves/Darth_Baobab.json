@@ -734,5 +734,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1773512146": {
+    "name": "Mammoth",
+    "tame_date": "14.03.2026 19:15:46",
+    "levelWild": 135,
+    "effectiveness": -10.0,
+    "level": 129,
+    "health": 28356,
+    "stamina": 4752,
+    "oxygen": 2160,
+    "food": 72000,
+    "weight": 1840,
+    "damage": 316,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
