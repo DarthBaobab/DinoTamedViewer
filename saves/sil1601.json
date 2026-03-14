@@ -174,5 +174,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1773499637": {
+    "name": "Thorny Dragon",
+    "tame_date": "14.03.2026 15:47:17",
+    "levelWild": 120,
+    "effectiveness": 10.0,
+    "level": 126,
+    "health": 6448,
+    "stamina": 4515,
+    "oxygen": 1935,
+    "food": 15480,
+    "weight": 1014,
+    "damage": 278,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
