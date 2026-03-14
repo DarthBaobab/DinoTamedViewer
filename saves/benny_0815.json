@@ -94,5 +94,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1773488359": {
+    "name": "Pteranodon",
+    "tame_date": "14.03.2026 12:39:19",
+    "levelWild": 140,
+    "effectiveness": 56.0,
+    "level": 179,
+    "health": 6048,
+    "stamina": 1262,
+    "oxygen": 2235,
+    "food": 17880,
+    "weight": 398,
+    "damage": 157,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
