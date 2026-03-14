@@ -574,5 +574,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1773515006": {
+    "name": "Rock Drake",
+    "tame_date": "14.03.2026 20:03:26",
+    "levelWild": 85,
+    "effectiveness": 48.0,
+    "level": 105,
+    "health": 15894,
+    "stamina": 2298,
+    "oxygen": 1410,
+    "food": 18800,
+    "weight": 1072,
+    "damage": 312,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
