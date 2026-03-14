@@ -542,5 +542,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1773503636": {
+    "name": "Kaprosuchus",
+    "tame_date": "14.03.2026 16:53:56",
+    "levelWild": 95,
+    "effectiveness": 87.0,
+    "level": 136,
+    "health": 3960,
+    "stamina": 3640,
+    "oxygen": 0,
+    "food": 12480,
+    "weight": 422,
+    "damage": 119,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
