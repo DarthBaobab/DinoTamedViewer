@@ -782,5 +782,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1773694807": {
+    "name": "Lystrosaurus",
+    "tame_date": "16.03.2026 22:00:07",
+    "levelWild": 55,
+    "effectiveness": 100.0,
+    "level": 82,
+    "health": 1062,
+    "stamina": 640,
+    "oxygen": 1403,
+    "food": 3200,
+    "weight": 198,
+    "damage": 60,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
