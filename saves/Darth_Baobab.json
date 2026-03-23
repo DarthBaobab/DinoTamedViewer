@@ -814,5 +814,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1774293950": {
+    "name": "Cosmo",
+    "tame_date": "23.03.2026 20:25:50",
+    "levelWild": 150,
+    "effectiveness": 95.0,
+    "level": 221,
+    "health": 3542,
+    "stamina": 1590,
+    "oxygen": 3180,
+    "food": 7155,
+    "weight": 219,
+    "damage": 154,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
