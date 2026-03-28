@@ -206,5 +206,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1774719878": {
+    "name": "Glowtail",
+    "tame_date": "28.03.2026 18:44:38",
+    "levelWild": 80,
+    "effectiveness": 92.0,
+    "level": 116,
+    "health": 1932,
+    "stamina": 890,
+    "oxygen": 2096,
+    "food": 4005,
+    "weight": 149,
+    "damage": 91,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
