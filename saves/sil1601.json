@@ -222,5 +222,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1774724152": {
+    "name": "Crystal Wyvern",
+    "tame_date": "28.03.2026 19:55:52",
+    "levelWild": 130,
+    "effectiveness": 42.0,
+    "level": 157,
+    "health": 26321,
+    "stamina": 2389,
+    "oxygen": 2085,
+    "food": 20850,
+    "weight": 1074,
+    "damage": 303,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
