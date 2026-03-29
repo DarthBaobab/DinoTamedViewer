@@ -606,5 +606,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1774797836": {
+    "name": "Thylacoleo",
+    "tame_date": "29.03.2026 17:23:56",
+    "levelWild": 140,
+    "effectiveness": 70.0,
+    "level": 189,
+    "health": 20160,
+    "stamina": 5960,
+    "oxygen": 2980,
+    "food": 22350,
+    "weight": 1512,
+    "damage": 318,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
