@@ -878,5 +878,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1774812230": {
+    "name": "Hesperornis",
+    "tame_date": "29.03.2026 21:23:50",
+    "levelWild": 150,
+    "effectiveness": 48.0,
+    "level": 186,
+    "health": 2926,
+    "stamina": 3180,
+    "oxygen": 0,
+    "food": 14310,
+    "weight": 219,
+    "damage": 150,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
