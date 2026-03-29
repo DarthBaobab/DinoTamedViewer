@@ -862,5 +862,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1774798945": {
+    "name": "Ovis",
+    "tame_date": "29.03.2026 17:42:25",
+    "levelWild": 140,
+    "effectiveness": 53.0,
+    "level": 177,
+    "health": 2880,
+    "stamina": 1490,
+    "oxygen": 2235,
+    "food": 17880,
+    "weight": 368,
+    "damage": 144,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
