@@ -238,5 +238,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1774899662": {
+    "name": "Vulture",
+    "tame_date": "30.03.2026 21:41:02",
+    "levelWild": 70,
+    "effectiveness": 85.0,
+    "level": 99,
+    "health": 1850,
+    "stamina": 1185,
+    "oxygen": 1185,
+    "food": 7110,
+    "weight": 119,
+    "damage": 92,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
