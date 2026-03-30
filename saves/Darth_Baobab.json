@@ -894,5 +894,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1774898163": {
+    "name": "Dinopithecus",
+    "tame_date": "30.03.2026 21:16:03",
+    "levelWild": 140,
+    "effectiveness": 83.0,
+    "level": 198,
+    "health": 22320,
+    "stamina": 11920,
+    "oxygen": 2235,
+    "food": 17880,
+    "weight": 1323,
+    "damage": 324,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
