@@ -654,5 +654,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1778338271": {
+    "name": "Pteranodon",
+    "tame_date": "09.05.2026 16:51:11",
+    "levelWild": 150,
+    "effectiveness": 100.0,
+    "level": 225,
+    "health": 6468,
+    "stamina": 1342,
+    "oxygen": 2385,
+    "food": 19080,
+    "weight": 418,
+    "damage": 167,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
