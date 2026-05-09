@@ -286,5 +286,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1778327354": {
+    "name": "Tropeognathus",
+    "tame_date": "09.05.2026 13:49:14",
+    "levelWild": 120,
+    "effectiveness": 4.0,
+    "level": 122,
+    "health": 8928,
+    "stamina": 1678,
+    "oxygen": 1935,
+    "food": 20640,
+    "weight": 1173,
+    "damage": 137,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
