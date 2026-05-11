@@ -318,5 +318,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1778528217": {
+    "name": "Trilobite",
+    "tame_date": "11.05.2026 21:36:57",
+    "levelWild": 135,
+    "effectiveness": 89.0,
+    "level": 195,
+    "health": 4448,
+    "stamina": 1440,
+    "oxygen": 0,
+    "food": 6480,
+    "weight": 552,
+    "damage": 144,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
