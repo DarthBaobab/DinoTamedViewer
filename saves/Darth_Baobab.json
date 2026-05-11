@@ -910,5 +910,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1778518413": {
+    "name": "Ankylosaurus",
+    "tame_date": "11.05.2026 18:53:33",
+    "levelWild": 90,
+    "effectiveness": 40.0,
+    "level": 108,
+    "health": 13160,
+    "stamina": 1777,
+    "oxygen": 1485,
+    "food": 29700,
+    "weight": 695,
+    "damage": 228,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
