@@ -670,5 +670,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1778514661": {
+    "name": "Dodo",
+    "tame_date": "11.05.2026 17:51:01",
+    "levelWild": 110,
+    "effectiveness": 94.0,
+    "level": 161,
+    "health": 912,
+    "stamina": 1190,
+    "oxygen": 1785,
+    "food": 5355,
+    "weight": 159,
+    "damage": 114,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
