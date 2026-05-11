@@ -926,5 +926,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1778525355": {
+    "name": "Fjordhawk",
+    "tame_date": "11.05.2026 20:49:15",
+    "levelWild": 125,
+    "effectiveness": 46.0,
+    "level": 153,
+    "health": 2729,
+    "stamina": 2010,
+    "oxygen": 2010,
+    "food": 13400,
+    "weight": 189,
+    "damage": 140,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
