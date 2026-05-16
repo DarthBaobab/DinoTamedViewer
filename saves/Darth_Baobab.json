@@ -974,5 +974,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1778936080": {
+    "name": "Dreadnoughtus",
+    "tame_date": "16.05.2026 14:54:40",
+    "levelWild": 55,
+    "effectiveness": 1.0,
+    "level": 55,
+    "health": 272800,
+    "stamina": 1920,
+    "oxygen": 960,
+    "food": 86400,
+    "weight": 6240,
+    "damage": 3024,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
