@@ -958,5 +958,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1778921391": {
+    "name": "Carnotaurus",
+    "tame_date": "16.05.2026 10:49:51",
+    "levelWild": 150,
+    "effectiveness": 92.0,
+    "level": 219,
+    "health": 12936,
+    "stamina": 4770,
+    "oxygen": 2385,
+    "food": 31800,
+    "weight": 1194,
+    "damage": 333,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
