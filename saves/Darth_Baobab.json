@@ -1006,5 +1006,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1780329957": {
+    "name": "Glowbug",
+    "tame_date": "01.06.2026 18:05:57",
+    "levelWild": 150,
+    "effectiveness": 92.0,
+    "level": 219,
+    "health": 2310,
+    "stamina": 1590,
+    "oxygen": 2385,
+    "food": 7155,
+    "weight": 199,
+    "damage": 167,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
