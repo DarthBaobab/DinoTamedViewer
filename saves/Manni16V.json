@@ -270,5 +270,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1780779858": {
+    "name": "Rock Elemental",
+    "tame_date": "06.06.2026 23:04:18",
+    "levelWild": 65,
+    "effectiveness": 49.0,
+    "level": 80,
+    "health": 44968,
+    "stamina": 2220,
+    "oxygen": 1110,
+    "food": 44400,
+    "weight": 1492,
+    "damage": 504,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
