@@ -718,5 +718,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1780761048": {
+    "name": "Gigantoraptor",
+    "tame_date": "06.06.2026 17:50:48",
+    "levelWild": 150,
+    "effectiveness": 27.0,
+    "level": 170,
+    "health": 23716,
+    "stamina": 5565,
+    "oxygen": 2385,
+    "food": 47700,
+    "weight": 1214,
+    "damage": 1510,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
