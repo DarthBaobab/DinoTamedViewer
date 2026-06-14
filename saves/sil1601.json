@@ -334,5 +334,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1781449539": {
+    "name": "Megaloceros",
+    "tame_date": "14.06.2026 17:05:39",
+    "levelWild": 145,
+    "effectiveness": 38.0,
+    "level": 172,
+    "health": 8940,
+    "stamina": 4312,
+    "oxygen": 2310,
+    "food": 18480,
+    "weight": 796,
+    "damage": 318,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
