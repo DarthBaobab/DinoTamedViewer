@@ -1038,5 +1038,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1781557362": {
+    "name": "Voidwyrm",
+    "tame_date": "15.06.2026 23:02:42",
+    "levelWild": 140,
+    "effectiveness": 69.0,
+    "level": 188,
+    "health": 28261,
+    "stamina": 2539,
+    "oxygen": 2235,
+    "food": 26820,
+    "weight": 1512,
+    "damage": 636,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
