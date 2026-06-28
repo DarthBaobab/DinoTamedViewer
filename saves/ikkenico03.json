@@ -766,5 +766,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1782669897": {
+    "name": "Megalosaurus",
+    "tame_date": "28.06.2026 20:04:57",
+    "levelWild": 110,
+    "effectiveness": 49.0,
+    "level": 136,
+    "health": 23370,
+    "stamina": 3570,
+    "oxygen": 1785,
+    "food": 23800,
+    "weight": 954,
+    "damage": 511,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
