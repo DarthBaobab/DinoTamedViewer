@@ -798,5 +798,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1783628561": {
+    "name": "Veilwyn",
+    "tame_date": "09.07.2026 22:22:41",
+    "levelWild": 135,
+    "effectiveness": 97.0,
+    "level": 200,
+    "health": 5560,
+    "stamina": 3744,
+    "oxygen": 2160,
+    "food": 17280,
+    "weight": 736,
+    "damage": 145,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }

@@ -47,22 +47,6 @@
     "win": 0,
     "lose": 0
   },
-  "1767381969": {
-    "name": "Stegosaurus",
-    "tame_date": "02.01.2026 20:26:09",
-    "levelWild": 70,
-    "effectiveness": 68.0,
-    "level": 93,
-    "health": 9620,
-    "stamina": 2370,
-    "oxygen": 1185,
-    "food": 47400,
-    "weight": 1190,
-    "damage": 180,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1768752458": {
     "name": "Bloodstalker",
     "tame_date": "18.01.2026 17:07:38",
