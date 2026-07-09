@@ -350,5 +350,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1783617454": {
+    "name": "Araneo",
+    "tame_date": "09.07.2026 19:17:34",
+    "levelWild": 120,
+    "effectiveness": 49.0,
+    "level": 149,
+    "health": 3720,
+    "stamina": 1290,
+    "oxygen": 1935,
+    "food": 11610,
+    "weight": 338,
+    "damage": 129,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
