@@ -814,5 +814,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1783861902": {
+    "name": "Megalania",
+    "tame_date": "12.07.2026 15:11:42",
+    "levelWild": 120,
+    "effectiveness": 72.0,
+    "level": 163,
+    "health": 11904,
+    "stamina": 5160,
+    "oxygen": 2580,
+    "food": 19350,
+    "weight": 1352,
+    "damage": 129,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
