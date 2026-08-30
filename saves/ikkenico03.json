@@ -830,5 +830,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1788111306": {
+    "name": "Rex",
+    "tame_date": "30.08.2026 19:35:06",
+    "levelWild": 85,
+    "effectiveness": 55.0,
+    "level": 108,
+    "health": 19580,
+    "stamina": 3948,
+    "oxygen": 1410,
+    "food": 28200,
+    "weight": 1340,
+    "damage": 314,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
