@@ -15,22 +15,6 @@
     "win": 0,
     "lose": 0
   },
-  "1765735876": {
-    "name": "Terror Bird",
-    "tame_date": "14.12.2025 19:11:16",
-    "levelWild": 105,
-    "effectiveness": 1.0,
-    "level": 105,
-    "health": 5886,
-    "stamina": 1824,
-    "oxygen": 1710,
-    "food": 17100,
-    "weight": 328,
-    "damage": 122,
-    "speed": 100,
-    "win": 1,
-    "lose": 0
-  },
   "1767555461": {
     "name": "Dung Beetle",
     "tame_date": "04.01.2026 20:37:41",
@@ -75,22 +59,6 @@
     "food": 4080,
     "weight": 212,
     "damage": 47,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
-  "1772479843": {
-    "name": "Desmodus",
-    "tame_date": "02.03.2026 20:30:43",
-    "levelWild": 120,
-    "effectiveness": 69.0,
-    "level": 161,
-    "health": 6870,
-    "stamina": 3475,
-    "oxygen": 1935,
-    "food": 20640,
-    "weight": 1183,
-    "damage": 278,
     "speed": 100,
     "win": 0,
     "lose": 0
@@ -140,7 +108,7 @@
     "weight": 2337,
     "damage": 894,
     "speed": 100,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "1788107727": {

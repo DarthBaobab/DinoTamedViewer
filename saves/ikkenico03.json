@@ -300,7 +300,7 @@
     "weight": 1032,
     "damage": 194,
     "speed": 100,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "1770579910": {
@@ -316,7 +316,7 @@
     "weight": 1116,
     "damage": 97,
     "speed": 100,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "1771085411": {
@@ -444,7 +444,7 @@
     "weight": 189,
     "damage": 139,
     "speed": 100,
-    "win": 0,
+    "win": 1,
     "lose": 0
   },
   "1773491060": {
@@ -843,6 +843,22 @@
     "food": 28200,
     "weight": 1340,
     "damage": 314,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  },
+  "1789587100": {
+    "name": "Armadoggo",
+    "tame_date": "16.09.2026 21:31:40",
+    "levelWild": 145,
+    "effectiveness": 66.0,
+    "level": 192,
+    "health": 5960,
+    "stamina": 4004,
+    "oxygen": 2310,
+    "food": 18480,
+    "weight": 776,
+    "damage": 159,
     "speed": 100,
     "win": 0,
     "lose": 0
