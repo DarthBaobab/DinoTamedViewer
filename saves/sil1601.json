@@ -414,5 +414,21 @@
     "speed": 100,
     "win": 0,
     "lose": 0
+  },
+  "1792929034": {
+    "name": "Sarco",
+    "tame_date": "25.10.2026 12:50:34",
+    "levelWild": 120,
+    "effectiveness": 21.0,
+    "level": 132,
+    "health": 9920,
+    "stamina": 5805,
+    "oxygen": 0,
+    "food": 19350,
+    "weight": 1014,
+    "damage": 273,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
   }
 }
