@@ -111,22 +111,6 @@
     "win": 0,
     "lose": 0
   },
-  "1771354502": {
-    "name": "Yi Ling",
-    "tame_date": "17.02.2026 19:55:02",
-    "levelWild": 25,
-    "effectiveness": 70.0,
-    "level": 33,
-    "health": 1885,
-    "stamina": 1020,
-    "oxygen": 510,
-    "food": 4080,
-    "weight": 212,
-    "damage": 47,
-    "speed": 100,
-    "win": 0,
-    "lose": 0
-  },
   "1771362015": {
     "name": "Arthropluera",
     "tame_date": "17.02.2026 22:00:15",
@@ -191,22 +175,6 @@
     "win": 0,
     "lose": 0
   },
-  "1774719878": {
-    "name": "Glowtail",
-    "tame_date": "28.03.2026 18:44:38",
-    "levelWild": 80,
-    "effectiveness": 92.0,
-    "level": 116,
-    "health": 1932,
-    "stamina": 890,
-    "oxygen": 2096,
-    "food": 4005,
-    "weight": 149,
-    "damage": 91,
-    "speed": 100,
-    "win": 1,
-    "lose": 0
-  },
   "1774724152": {
     "name": "Crystal Wyvern",
     "tame_date": "28.03.2026 19:55:52",
@@ -237,22 +205,6 @@
     "damage": 84,
     "speed": 100,
     "win": 0,
-    "lose": 0
-  },
-  "1774798945": {
-    "name": "Ovis",
-    "tame_date": "29.03.2026 17:42:25",
-    "levelWild": 140,
-    "effectiveness": 6.0,
-    "level": 144,
-    "health": 2880,
-    "stamina": 1490,
-    "oxygen": 2235,
-    "food": 17880,
-    "weight": 368,
-    "damage": 144,
-    "speed": 100,
-    "win": 1,
     "lose": 0
   },
   "1774812230": {
@@ -427,6 +379,22 @@
     "food": 19350,
     "weight": 1014,
     "damage": 273,
+    "speed": 100,
+    "win": 0,
+    "lose": 0
+  },
+  "1793451190": {
+    "name": "Glowtail",
+    "tame_date": "31.10.2026 13:53:10",
+    "levelWild": 150,
+    "effectiveness": 56.0,
+    "level": 192,
+    "health": 3542,
+    "stamina": 1590,
+    "oxygen": 3776,
+    "food": 7155,
+    "weight": 219,
+    "damage": 161,
     "speed": 100,
     "win": 0,
     "lose": 0
